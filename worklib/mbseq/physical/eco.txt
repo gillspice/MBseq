@@ -1,0 +1,90 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  D:/Misc/MBseq/worklib/mbseq/physical/mbseq20.brd                            |
+|                                                    Fri Aug 24 17:12:01 2012  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  UNNAMED_1_ZLEDWP59CGKSYKW_I12_2 pins ADDED TO this existing net (pins not previously on any net)
+                                 Z20.C                          
+                                 Z21.C                          
+                                 Z22.C                          
+                                 Z23.C                          
+                                 Z24.C                          
+                                 Z25.C                          
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  D:/Misc/MBseq/worklib/mbseq/physical/mbseq20.brd                            |
+|                                                    Fri Aug 24 17:12:01 2012  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to board drawing                                            |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ Z20                 Z_LED_WP59CGKSYKW-10020811,WP5B 
+ Z21                 Z_LED_WP59CGKSYKW-10020811,WP5B 
+ Z22                 Z_LED_WP59CGKSYKW-10020811,WP5B 
+ Z23                 Z_LED_WP59CGKSYKW-10020811,WP5B 
+ Z24                 Z_LED_WP59CGKSYKW-10020811,WP5B 
+ Z25                 Z_LED_WP59CGKSYKW-10020811,WP5B 
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  D:/Misc/MBseq/worklib/mbseq/physical/mbseq20.brd                            |
+|                                                    Fri Aug 24 17:12:01 2012  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to board drawing                                       |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ Z20.Y                          PHYS_PAGE      1
+ Z20.Y                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/z_display/z_led_wp59cgksykw/chips/chips.prt
+ Z21.Y                          PHYS_PAGE      1
+ Z21.Y                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/z_display/z_led_wp59cgksykw/chips/chips.prt
+ Z22.Y                          PHYS_PAGE      1
+ Z22.Y                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/z_display/z_led_wp59cgksykw/chips/chips.prt
+ Z23.Y                          PHYS_PAGE      1
+ Z23.Y                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/z_display/z_led_wp59cgksykw/chips/chips.prt
+ Z24.Y                          PHYS_PAGE      1
+ Z24.Y                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/z_display/z_led_wp59cgksykw/chips/chips.prt
+ Z25.Y                          PHYS_PAGE      1
+ Z25.Y                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/z_display/z_led_wp59cgksykw/chips/chips.prt
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  D:/Misc/MBseq/worklib/mbseq/physical/mbseq20.brd                            |
+|                                                    Fri Aug 24 17:12:01 2012  |
+|------------------------------------------------------------------------------|
+| PIN PROPERTIES added to board drawing                                        |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    pin_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ Z20.C                          CDS_PINID      \2\
+ Z20.G                          CDS_PINID      \1\
+ Z20.Y                          CDS_PINID      \3\
+ Z21.C                          CDS_PINID      \2\
+ Z21.G                          CDS_PINID      \1\
+ Z21.Y                          CDS_PINID      \3\
+ Z22.C                          CDS_PINID      \2\
+ Z22.G                          CDS_PINID      \1\
+ Z22.Y                          CDS_PINID      \3\
+ Z23.C                          CDS_PINID      \2\
+ Z23.G                          CDS_PINID      \1\
+ Z23.Y                          CDS_PINID      \3\
+ Z24.C                          CDS_PINID      \2\
+ Z24.G                          CDS_PINID      \1\
+ Z24.Y                          CDS_PINID      \3\
+ Z25.C                          CDS_PINID      \2\
+ Z25.G                          CDS_PINID      \1\
+ Z25.Y                          CDS_PINID      \3\
+|------------------------------------------------------------------------------|
+|   total ECO changes reported  42                                             |
+|------------------------------------------------------------------------------|

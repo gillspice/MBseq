@@ -1,0 +1,37 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    PLCTXT Log                                                       )
+(                                                                     )
+(    Drawing          : mbseq01.brd                                   )
+(    Software Version : 16.3S021                                      )
+(    Date/Time        : Sat Aug 18 12:46:22 2012                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ Place by text file using: place_txt_.txt
+
+ Save as #Taaaaaa04392.tmp 
+
+ Refdes S1 is already placed ... skipping
+
+ Refdes S2 is already placed ... skipping
+
+ Refdes S3 is already placed ... skipping
+
+ Refdes S4 is already placed ... skipping
+
+ Refdes S5 is already placed ... skipping
+
+ Refdes S6 is already placed ... skipping
+
+ Refdes S7 is already placed ... skipping
+
+ Refdes S8 is already placed ... skipping
+
+ Successfully placed 0 components
+
+ Failed to place 8 components
+
+ 8 Warnings reported

@@ -1,0 +1,30 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    PLCTXT Log                                                       )
+(                                                                     )
+(    Drawing          : mbseq01.brd                                   )
+(    Software Version : 16.3S021                                      )
+(    Date/Time        : Sat Aug 18 12:54:38 2012                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ Place by text file using: place_txt__.txt
+
+ Save as #Taaaaaa04392.tmp 
+
+ Refdes S1 is already placed ... skipping
+S2                    1583.886     3982.000       90    SWITCH-EC11E15244   
+S3                    2309.772     3982.000       90    SWITCH-EC11E15244   
+S4                    3035.658     3982.000       90    SWITCH-EC11E15244   
+S5                    3761.544     3982.000       90    SWITCH-EC11E15244   
+S6                    4487.430     3982.000       90    SWITCH-EC11E15244   
+S7                    5213.316     3982.000       90    SWITCH-EC11E15244   
+S8                    5939.202     3982.000       90    SWITCH-EC11E15244   
+
+ Successfully placed 7 components
+
+ Failed to place 1 components
+
+ 1 Warnings reported

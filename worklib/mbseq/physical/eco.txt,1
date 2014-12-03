@@ -1,0 +1,69 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  D:/Misc/MBseq/worklib/mbseq/physical/mbseq19.brd                            |
+|                                                    Fri Aug 24 17:10:43 2012  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  UNNAMED_1_ZLEDWP59CGKSYKW_I12_2 pins ADDED TO this existing net (pins not previously on any net)
+                                 Z17.C                          
+                                 Z18.C                          
+                                 Z19.C                          
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  D:/Misc/MBseq/worklib/mbseq/physical/mbseq19.brd                            |
+|                                                    Fri Aug 24 17:10:43 2012  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to board drawing                                            |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ Z17                 Z_LED_WP59CGKSYKW-10020811,WP5B 
+ Z18                 Z_LED_WP59CGKSYKW-10020811,WP5B 
+ Z19                 Z_LED_WP59CGKSYKW-10020811,WP5B 
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  D:/Misc/MBseq/worklib/mbseq/physical/mbseq19.brd                            |
+|                                                    Fri Aug 24 17:10:43 2012  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to board drawing                                       |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ Z17.Y                          PHYS_PAGE      1
+ Z17.Y                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/z_display/z_led_wp59cgksykw/chips/chips.prt
+ Z18.Y                          PHYS_PAGE      1
+ Z18.Y                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/z_display/z_led_wp59cgksykw/chips/chips.prt
+ Z19.Y                          PHYS_PAGE      1
+ Z19.Y                          PRIM_FILE      //applpark/technology/Electronics/InProcess/tools/npielect/GE_Library_16/Components/z_display/z_led_wp59cgksykw/chips/chips.prt
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  D:/Misc/MBseq/worklib/mbseq/physical/mbseq19.brd                            |
+|                                                    Fri Aug 24 17:10:43 2012  |
+|------------------------------------------------------------------------------|
+| PIN PROPERTIES added to board drawing                                        |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    pin_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ Z17.C                          CDS_PINID      \2\
+ Z17.G                          CDS_PINID      \1\
+ Z17.Y                          CDS_PINID      \3\
+ Z18.C                          CDS_PINID      \2\
+ Z18.G                          CDS_PINID      \1\
+ Z18.Y                          CDS_PINID      \3\
+ Z19.C                          CDS_PINID      \2\
+ Z19.G                          CDS_PINID      \1\
+ Z19.Y                          CDS_PINID      \3\
+|------------------------------------------------------------------------------|
+|   total ECO changes reported  21                                             |
+|------------------------------------------------------------------------------|

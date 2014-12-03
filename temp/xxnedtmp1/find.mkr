@@ -1,0 +1,185 @@
+(marker_file
+ (version 1.0)
+ (markers
+  (
+   (tool "Concept")
+   (class "SCHEMATIC")
+   (severity 10)
+   (error_num 1)
+   (short_msg "INFO : Found a visible property: <PART_NUMBER=10016967>.
+")
+   (long_msg "INFO (find): Found a visible property: <PART_NUMBER=10016967>.
+")
+   (location
+    (
+     (object_kind "property")
+     (canonical_name "_!drawbox (-6175,4200);")
+     (parent_canonical_name "unused")
+     (drawing_name "@mbseq_lib.mbseq(sch_1):page1")
+    )
+   )
+  )
+  (
+   (tool "Concept")
+   (class "SCHEMATIC")
+   (severity 10)
+   (error_num 2)
+   (short_msg "INFO : Found a visible property: <PART_NUMBER=10018475>.
+")
+   (long_msg "INFO (find): Found a visible property: <PART_NUMBER=10018475>.
+")
+   (location
+    (
+     (object_kind "property")
+     (canonical_name "_!drawbox (-7000,4925);")
+     (parent_canonical_name "unused")
+     (drawing_name "@mbseq_lib.mbseq(sch_1):page1")
+    )
+   )
+  )
+  (
+   (tool "Concept")
+   (class "SCHEMATIC")
+   (severity 10)
+   (error_num 3)
+   (short_msg "INFO : Found a visible property: <PART_NUMBER=10018475>.
+")
+   (long_msg "INFO (find): Found a visible property: <PART_NUMBER=10018475>.
+")
+   (location
+    (
+     (object_kind "property")
+     (canonical_name "_!drawbox (-7475,4925);")
+     (parent_canonical_name "unused")
+     (drawing_name "@mbseq_lib.mbseq(sch_1):page1")
+    )
+   )
+  )
+  (
+   (tool "Concept")
+   (class "SCHEMATIC")
+   (severity 10)
+   (error_num 4)
+   (short_msg "INFO : Found a visible property: <PART_NUMBER=10018475>.
+")
+   (long_msg "INFO (find): Found a visible property: <PART_NUMBER=10018475>.
+")
+   (location
+    (
+     (object_kind "property")
+     (canonical_name "_!drawbox (-6525,4900);")
+     (parent_canonical_name "unused")
+     (drawing_name "@mbseq_lib.mbseq(sch_1):page1")
+    )
+   )
+  )
+  (
+   (tool "Concept")
+   (class "SCHEMATIC")
+   (severity 10)
+   (error_num 5)
+   (short_msg "INFO : Found a visible property: <PART_NUMBER=10018475>.
+")
+   (long_msg "INFO (find): Found a visible property: <PART_NUMBER=10018475>.
+")
+   (location
+    (
+     (object_kind "property")
+     (canonical_name "_!drawbox (-6025,4900);")
+     (parent_canonical_name "unused")
+     (drawing_name "@mbseq_lib.mbseq(sch_1):page1")
+    )
+   )
+  )
+  (
+   (tool "Concept")
+   (class "SCHEMATIC")
+   (severity 10)
+   (error_num 6)
+   (short_msg "INFO : Found a visible property: <PART_NUMBER=10016967>.
+")
+   (long_msg "INFO (find): Found a visible property: <PART_NUMBER=10016967>.
+")
+   (location
+    (
+     (object_kind "property")
+     (canonical_name "_!drawbox (-8150,4175);")
+     (parent_canonical_name "unused")
+     (drawing_name "@mbseq_lib.mbseq(sch_1):page1")
+    )
+   )
+  )
+  (
+   (tool "Concept")
+   (class "SCHEMATIC")
+   (severity 10)
+   (error_num 7)
+   (short_msg "INFO : Found a visible property: <PART_NUMBER=10018475>.
+")
+   (long_msg "INFO (find): Found a visible property: <PART_NUMBER=10018475>.
+")
+   (location
+    (
+     (object_kind "property")
+     (canonical_name "_!drawbox (-9025,4925);")
+     (parent_canonical_name "unused")
+     (drawing_name "@mbseq_lib.mbseq(sch_1):page1")
+    )
+   )
+  )
+  (
+   (tool "Concept")
+   (class "SCHEMATIC")
+   (severity 10)
+   (error_num 8)
+   (short_msg "INFO : Found a visible property: <PART_NUMBER=10018475>.
+")
+   (long_msg "INFO (find): Found a visible property: <PART_NUMBER=10018475>.
+")
+   (location
+    (
+     (object_kind "property")
+     (canonical_name "_!drawbox (-8550,4925);")
+     (parent_canonical_name "unused")
+     (drawing_name "@mbseq_lib.mbseq(sch_1):page1")
+    )
+   )
+  )
+  (
+   (tool "Concept")
+   (class "SCHEMATIC")
+   (severity 10)
+   (error_num 9)
+   (short_msg "INFO : Found a visible property: <PART_NUMBER=10018475>.
+")
+   (long_msg "INFO (find): Found a visible property: <PART_NUMBER=10018475>.
+")
+   (location
+    (
+     (object_kind "property")
+     (canonical_name "_!drawbox (-7925,4925);")
+     (parent_canonical_name "unused")
+     (drawing_name "@mbseq_lib.mbseq(sch_1):page1")
+    )
+   )
+  )
+  (
+   (tool "Concept")
+   (class "SCHEMATIC")
+   (severity 10)
+   (error_num 10)
+   (short_msg "INFO : Found a visible property: <PART_NUMBER=10018475>.
+")
+   (long_msg "INFO (find): Found a visible property: <PART_NUMBER=10018475>.
+")
+   (location
+    (
+     (object_kind "property")
+     (canonical_name "_!drawbox (-5550,4900);")
+     (parent_canonical_name "unused")
+     (drawing_name "@mbseq_lib.mbseq(sch_1):page1")
+    )
+   )
+  )
+ )
+)

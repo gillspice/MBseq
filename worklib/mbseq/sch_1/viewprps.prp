@@ -1,0 +1,1005 @@
+(PropertyFile "1.0" 
+ (Creator " HDL Direct 16.3-S021 (v16-3-85AK) 12/6/2010" )
+ (Created "Fri Aug 24 17:12:03 2012" )
+ (Cell "mbseq" 
+  (View "sch_1" 
+   (Inst "page1_I1" 
+    (Pr 
+     ("VALUE" "EC11E15244" )
+     ("CDS_LMAN_SYM_OUTLINE" "-150,150,150,-150" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LIB" "s_switch" )
+     ("PART_NAME" "S_EC11B" )
+     ("JEDEC_TYPE" "SWITCH-EC11E15244" )
+     ("PART_NUMBER" "10018475" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "S5" )
+     ("\\$location\\" "S5" )
+     ("ROT" "3" )
+     ("VER" "1" )
+     ("XY" "(-6875,4900)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "E" 
+     (Pr 
+      ("\\$pn\\" "5" )))
+    (IPrt "D" 
+     (Pr 
+      ("\\$pn\\" "4" )))
+    (IPrt "C" 
+     (Pr 
+      ("\\$pn\\" "3" )))
+    (IPrt "B" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "A" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I2" 
+    (Pr 
+     ("VALUE" "EC11E15244" )
+     ("CDS_LMAN_SYM_OUTLINE" "-150,150,150,-150" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LIB" "s_switch" )
+     ("PART_NAME" "S_EC11B" )
+     ("JEDEC_TYPE" "SWITCH-EC11E15244" )
+     ("PART_NUMBER" "10018475" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "S6" )
+     ("\\$location\\" "S6" )
+     ("ROT" "3" )
+     ("VER" "1" )
+     ("XY" "(-6400,4900)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "E" 
+     (Pr 
+      ("\\$pn\\" "5" )))
+    (IPrt "D" 
+     (Pr 
+      ("\\$pn\\" "4" )))
+    (IPrt "C" 
+     (Pr 
+      ("\\$pn\\" "3" )))
+    (IPrt "B" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "A" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I3" 
+    (Pr 
+     ("VALUE" "EC11E15244" )
+     ("CDS_LMAN_SYM_OUTLINE" "-150,150,150,-150" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LIB" "s_switch" )
+     ("PART_NAME" "S_EC11B" )
+     ("JEDEC_TYPE" "SWITCH-EC11E15244" )
+     ("PART_NUMBER" "10018475" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "S7" )
+     ("\\$location\\" "S7" )
+     ("ROT" "3" )
+     ("VER" "1" )
+     ("XY" "(-5775,4900)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "E" 
+     (Pr 
+      ("\\$pn\\" "5" )))
+    (IPrt "D" 
+     (Pr 
+      ("\\$pn\\" "4" )))
+    (IPrt "C" 
+     (Pr 
+      ("\\$pn\\" "3" )))
+    (IPrt "B" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "A" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I4" 
+    (Pr 
+     ("VALUE" "EC11E15244" )
+     ("JEDEC_TYPE" "SWITCH-EC11E15244" )
+     ("PART_NAME" "S_EC11B" )
+     ("CDS_LIB" "s_switch" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LMAN_SYM_OUTLINE" "-150,150,150,-150" )
+     ("PART_NUMBER" "10018475" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "S8" )
+     ("\\$location\\" "S8" )
+     ("ROT" "3" )
+     ("VER" "1" )
+     ("XY" "(-5325,4900)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "E" 
+     (Pr 
+      ("\\$pn\\" "5" )))
+    (IPrt "D" 
+     (Pr 
+      ("\\$pn\\" "4" )))
+    (IPrt "C" 
+     (Pr 
+      ("\\$pn\\" "3" )))
+    (IPrt "B" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "A" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I6" 
+    (Pr 
+     ("VALUE" "EC11E15244" )
+     ("JEDEC_TYPE" "SWITCH-EC11E15244" )
+     ("PART_NAME" "S_EC11B" )
+     ("CDS_LIB" "s_switch" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LMAN_SYM_OUTLINE" "-150,150,150,-150" )
+     ("PART_NUMBER" "10018475" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "S4" )
+     ("\\$location\\" "S4" )
+     ("ROT" "3" )
+     ("VER" "1" )
+     ("XY" "(-7350,4900)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "E" 
+     (Pr 
+      ("\\$pn\\" "5" )))
+    (IPrt "D" 
+     (Pr 
+      ("\\$pn\\" "4" )))
+    (IPrt "C" 
+     (Pr 
+      ("\\$pn\\" "3" )))
+    (IPrt "B" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "A" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I7" 
+    (Pr 
+     ("VALUE" "EC11E15244" )
+     ("CDS_LMAN_SYM_OUTLINE" "-150,150,150,-150" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LIB" "s_switch" )
+     ("PART_NAME" "S_EC11B" )
+     ("JEDEC_TYPE" "SWITCH-EC11E15244" )
+     ("PART_NUMBER" "10018475" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "S3" )
+     ("\\$location\\" "S3" )
+     ("ROT" "3" )
+     ("VER" "1" )
+     ("XY" "(-7800,4900)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "E" 
+     (Pr 
+      ("\\$pn\\" "5" )))
+    (IPrt "D" 
+     (Pr 
+      ("\\$pn\\" "4" )))
+    (IPrt "C" 
+     (Pr 
+      ("\\$pn\\" "3" )))
+    (IPrt "B" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "A" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I8" 
+    (Pr 
+     ("VALUE" "EC11E15244" )
+     ("JEDEC_TYPE" "SWITCH-EC11E15244" )
+     ("PART_NAME" "S_EC11B" )
+     ("CDS_LIB" "s_switch" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LMAN_SYM_OUTLINE" "-150,150,150,-150" )
+     ("PART_NUMBER" "10018475" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "S2" )
+     ("\\$location\\" "S2" )
+     ("ROT" "3" )
+     ("VER" "1" )
+     ("XY" "(-8425,4900)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "E" 
+     (Pr 
+      ("\\$pn\\" "5" )))
+    (IPrt "D" 
+     (Pr 
+      ("\\$pn\\" "4" )))
+    (IPrt "C" 
+     (Pr 
+      ("\\$pn\\" "3" )))
+    (IPrt "B" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "A" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I9" 
+    (Pr 
+     ("VALUE" "EC11E15244" )
+     ("JEDEC_TYPE" "SWITCH-EC11E15244" )
+     ("PART_NAME" "S_EC11B" )
+     ("CDS_LIB" "s_switch" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LMAN_SYM_OUTLINE" "-150,150,150,-150" )
+     ("PART_NUMBER" "10018475" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "S1" )
+     ("\\$location\\" "S1" )
+     ("ROT" "3" )
+     ("VER" "1" )
+     ("XY" "(-8900,4900)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "E" 
+     (Pr 
+      ("\\$pn\\" "5" )))
+    (IPrt "D" 
+     (Pr 
+      ("\\$pn\\" "4" )))
+    (IPrt "C" 
+     (Pr 
+      ("\\$pn\\" "3" )))
+    (IPrt "B" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "A" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I10" 
+    (Pr 
+     ("VALUE" "534206-5" )
+     ("JEDEC_TYPE" "CONN-AMP-2X5PIN-100MIL-ST" )
+     ("PART_NAME" "J_2X5_ST_AMP_534206" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LIB" "j_connector2fjumper" )
+     ("CDS_LMAN_SYM_OUTLINE" "-100,150,100,-150" )
+     ("PART_NUMBER" "10016967" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "J1" )
+     ("\\$location\\" "J1" )
+     ("ROT" "2" )
+     ("VER" "1" )
+     ("XY" "(-8150,3900)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\10\\" 
+     (Pr 
+      ("\\$pn\\" "10" )))
+    (IPrt "\\9\\" 
+     (Pr 
+      ("\\$pn\\" "9" )))
+    (IPrt "\\8\\" 
+     (Pr 
+      ("\\$pn\\" "8" )))
+    (IPrt "\\7\\" 
+     (Pr 
+      ("\\$pn\\" "7" )))
+    (IPrt "\\6\\" 
+     (Pr 
+      ("\\$pn\\" "6" )))
+    (IPrt "\\5\\" 
+     (Pr 
+      ("\\$pn\\" "5" )))
+    (IPrt "\\4\\" 
+     (Pr 
+      ("\\$pn\\" "4" )))
+    (IPrt "\\3\\" 
+     (Pr 
+      ("\\$pn\\" "3" )))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I11" 
+    (Pr 
+     ("VALUE" "534206-5" )
+     ("CDS_LIB" "j_connector2fjumper" )
+     ("CDS_LMAN_SYM_OUTLINE" "-100,150,100,-150" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("PART_NAME" "J_2X5_ST_AMP_534206" )
+     ("JEDEC_TYPE" "CONN-AMP-2X5PIN-100MIL-ST" )
+     ("PART_NUMBER" "10016967" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "J2" )
+     ("\\$location\\" "J2" )
+     ("ROT" "2" )
+     ("VER" "1" )
+     ("XY" "(-6125,3900)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\10\\" 
+     (Pr 
+      ("\\$pn\\" "10" )))
+    (IPrt "\\9\\" 
+     (Pr 
+      ("\\$pn\\" "9" )))
+    (IPrt "\\8\\" 
+     (Pr 
+      ("\\$pn\\" "8" )))
+    (IPrt "\\7\\" 
+     (Pr 
+      ("\\$pn\\" "7" )))
+    (IPrt "\\6\\" 
+     (Pr 
+      ("\\$pn\\" "6" )))
+    (IPrt "\\5\\" 
+     (Pr 
+      ("\\$pn\\" "5" )))
+    (IPrt "\\4\\" 
+     (Pr 
+      ("\\$pn\\" "4" )))
+    (IPrt "\\3\\" 
+     (Pr 
+      ("\\$pn\\" "3" )))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "2" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "1" ))))
+   (Inst "page1_I12" 
+    (Pr 
+     ("VALUE" "WP59CGKSYKW" )
+     ("CDS_LMAN_SYM_OUTLINE" "-100,25,100,-25" )
+     ("CDS_LIB" "z_display" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("PART_NAME" "Z_LED_WP59CGKSYKW" )
+     ("JEDEC_TYPE" "LED-KINGBRIGHT_3P_2P54" )
+     ("PART_NUMBER" "10020811" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "Z2" )
+     ("\\$location\\" "Z2" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(-5725,6600)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\3\\" 
+     (Pr 
+      ("\\$pn\\" "Y" )))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "C" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "G" ))))
+   (Inst "page1_I13" 
+    (Pr 
+     ("VALUE" "WP59CGKSYKW" )
+     ("CDS_LMAN_SYM_OUTLINE" "-100,25,100,-25" )
+     ("CDS_LIB" "z_display" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("PART_NAME" "Z_LED_WP59CGKSYKW" )
+     ("JEDEC_TYPE" "LED-KINGBRIGHT_3P_2P54" )
+     ("PART_NUMBER" "10020811" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "Z4" )
+     ("\\$location\\" "Z4" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(-4975,6600)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\3\\" 
+     (Pr 
+      ("\\$pn\\" "Y" )))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "C" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "G" ))))
+   (Inst "page1_I14" 
+    (Pr 
+     ("VALUE" "WP59CGKSYKW" )
+     ("CDS_LMAN_SYM_OUTLINE" "-100,25,100,-25" )
+     ("CDS_LIB" "z_display" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("PART_NAME" "Z_LED_WP59CGKSYKW" )
+     ("JEDEC_TYPE" "LED-KINGBRIGHT_3P_2P54" )
+     ("PART_NUMBER" "10020811" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "Z8" )
+     ("\\$location\\" "Z8" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(-3600,6550)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\3\\" 
+     (Pr 
+      ("\\$pn\\" "Y" )))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "C" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "G" ))))
+   (Inst "page1_I15" 
+    (Pr 
+     ("VALUE" "WP59CGKSYKW" )
+     ("CDS_LMAN_SYM_OUTLINE" "-100,25,100,-25" )
+     ("CDS_LIB" "z_display" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("PART_NAME" "Z_LED_WP59CGKSYKW" )
+     ("JEDEC_TYPE" "LED-KINGBRIGHT_3P_2P54" )
+     ("PART_NUMBER" "10020811" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "Z6" )
+     ("\\$location\\" "Z6" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(-4350,6550)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\3\\" 
+     (Pr 
+      ("\\$pn\\" "Y" )))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "C" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "G" ))))
+   (Inst "page1_I16" 
+    (Pr 
+     ("VALUE" "WP59CGKSYKW" )
+     ("CDS_LMAN_SYM_OUTLINE" "-100,25,100,-25" )
+     ("CDS_LIB" "z_display" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("PART_NAME" "Z_LED_WP59CGKSYKW" )
+     ("JEDEC_TYPE" "LED-KINGBRIGHT_3P_2P54" )
+     ("PART_NUMBER" "10020811" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "Z16" )
+     ("\\$location\\" "Z16" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(-825,6500)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\3\\" 
+     (Pr 
+      ("\\$pn\\" "Y" )))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "C" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "G" ))))
+   (Inst "page1_I17" 
+    (Pr 
+     ("VALUE" "WP59CGKSYKW" )
+     ("CDS_LMAN_SYM_OUTLINE" "-100,25,100,-25" )
+     ("CDS_LIB" "z_display" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("PART_NAME" "Z_LED_WP59CGKSYKW" )
+     ("JEDEC_TYPE" "LED-KINGBRIGHT_3P_2P54" )
+     ("PART_NUMBER" "10020811" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "Z14" )
+     ("\\$location\\" "Z14" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(-1575,6500)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\3\\" 
+     (Pr 
+      ("\\$pn\\" "Y" )))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "C" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "G" ))))
+   (Inst "page1_I18" 
+    (Pr 
+     ("VALUE" "WP59CGKSYKW" )
+     ("CDS_LMAN_SYM_OUTLINE" "-100,25,100,-25" )
+     ("CDS_LIB" "z_display" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("PART_NAME" "Z_LED_WP59CGKSYKW" )
+     ("JEDEC_TYPE" "LED-KINGBRIGHT_3P_2P54" )
+     ("PART_NUMBER" "10020811" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "Z12" )
+     ("\\$location\\" "Z12" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(-2200,6550)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\3\\" 
+     (Pr 
+      ("\\$pn\\" "Y" )))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "C" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "G" ))))
+   (Inst "page1_I19" 
+    (Pr 
+     ("VALUE" "WP59CGKSYKW" )
+     ("CDS_LMAN_SYM_OUTLINE" "-100,25,100,-25" )
+     ("CDS_LIB" "z_display" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("PART_NAME" "Z_LED_WP59CGKSYKW" )
+     ("JEDEC_TYPE" "LED-KINGBRIGHT_3P_2P54" )
+     ("PART_NUMBER" "10020811" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "Z10" )
+     ("\\$location\\" "Z10" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(-2950,6550)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\3\\" 
+     (Pr 
+      ("\\$pn\\" "Y" )))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "C" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "G" ))))
+   (Inst "page1_I20" 
+    (Pr 
+     ("VALUE" "WP59CGKSYKW" )
+     ("PART_NUMBER" "10020811" )
+     ("JEDEC_TYPE" "LED-KINGBRIGHT_3P_2P54" )
+     ("PART_NAME" "Z_LED_WP59CGKSYKW" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LMAN_SYM_OUTLINE" "-100,25,100,-25" )
+     ("CDS_LIB" "z_display" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "Z15" )
+     ("\\$location\\" "Z15" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(-925,5925)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\3\\" 
+     (Pr 
+      ("\\$pn\\" "Y" )))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "C" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "G" ))))
+   (Inst "page1_I21" 
+    (Pr 
+     ("VALUE" "WP59CGKSYKW" )
+     ("PART_NUMBER" "10020811" )
+     ("JEDEC_TYPE" "LED-KINGBRIGHT_3P_2P54" )
+     ("PART_NAME" "Z_LED_WP59CGKSYKW" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LMAN_SYM_OUTLINE" "-100,25,100,-25" )
+     ("CDS_LIB" "z_display" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "Z13" )
+     ("\\$location\\" "Z13" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(-1675,5925)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\3\\" 
+     (Pr 
+      ("\\$pn\\" "Y" )))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "C" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "G" ))))
+   (Inst "page1_I22" 
+    (Pr 
+     ("VALUE" "WP59CGKSYKW" )
+     ("PART_NUMBER" "10020811" )
+     ("JEDEC_TYPE" "LED-KINGBRIGHT_3P_2P54" )
+     ("PART_NAME" "Z_LED_WP59CGKSYKW" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LMAN_SYM_OUTLINE" "-100,25,100,-25" )
+     ("CDS_LIB" "z_display" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "Z11" )
+     ("\\$location\\" "Z11" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(-2300,5975)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\3\\" 
+     (Pr 
+      ("\\$pn\\" "Y" )))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "C" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "G" ))))
+   (Inst "page1_I23" 
+    (Pr 
+     ("VALUE" "WP59CGKSYKW" )
+     ("PART_NUMBER" "10020811" )
+     ("JEDEC_TYPE" "LED-KINGBRIGHT_3P_2P54" )
+     ("PART_NAME" "Z_LED_WP59CGKSYKW" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LMAN_SYM_OUTLINE" "-100,25,100,-25" )
+     ("CDS_LIB" "z_display" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "Z9" )
+     ("\\$location\\" "Z9" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(-3050,5975)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\3\\" 
+     (Pr 
+      ("\\$pn\\" "Y" )))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "C" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "G" ))))
+   (Inst "page1_I24" 
+    (Pr 
+     ("VALUE" "WP59CGKSYKW" )
+     ("PART_NUMBER" "10020811" )
+     ("JEDEC_TYPE" "LED-KINGBRIGHT_3P_2P54" )
+     ("PART_NAME" "Z_LED_WP59CGKSYKW" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LMAN_SYM_OUTLINE" "-100,25,100,-25" )
+     ("CDS_LIB" "z_display" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "Z7" )
+     ("\\$location\\" "Z7" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(-3700,5975)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\3\\" 
+     (Pr 
+      ("\\$pn\\" "Y" )))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "C" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "G" ))))
+   (Inst "page1_I25" 
+    (Pr 
+     ("VALUE" "WP59CGKSYKW" )
+     ("PART_NUMBER" "10020811" )
+     ("JEDEC_TYPE" "LED-KINGBRIGHT_3P_2P54" )
+     ("PART_NAME" "Z_LED_WP59CGKSYKW" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LMAN_SYM_OUTLINE" "-100,25,100,-25" )
+     ("CDS_LIB" "z_display" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "Z5" )
+     ("\\$location\\" "Z5" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(-4450,5975)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\3\\" 
+     (Pr 
+      ("\\$pn\\" "Y" )))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "C" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "G" ))))
+   (Inst "page1_I26" 
+    (Pr 
+     ("VALUE" "WP59CGKSYKW" )
+     ("PART_NUMBER" "10020811" )
+     ("JEDEC_TYPE" "LED-KINGBRIGHT_3P_2P54" )
+     ("PART_NAME" "Z_LED_WP59CGKSYKW" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LMAN_SYM_OUTLINE" "-100,25,100,-25" )
+     ("CDS_LIB" "z_display" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "Z3" )
+     ("\\$location\\" "Z3" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(-5075,6025)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\3\\" 
+     (Pr 
+      ("\\$pn\\" "Y" )))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "C" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "G" ))))
+   (Inst "page1_I27" 
+    (Pr 
+     ("VALUE" "WP59CGKSYKW" )
+     ("PART_NUMBER" "10020811" )
+     ("JEDEC_TYPE" "LED-KINGBRIGHT_3P_2P54" )
+     ("PART_NAME" "Z_LED_WP59CGKSYKW" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("CDS_LMAN_SYM_OUTLINE" "-100,25,100,-25" )
+     ("CDS_LIB" "z_display" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "Z1" )
+     ("\\$location\\" "Z1" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(-5825,6025)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\3\\" 
+     (Pr 
+      ("\\$pn\\" "Y" )))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "C" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "G" ))))
+   (Inst "page1_I28" 
+    (Pr 
+     ("PART_NUMBER" "10020811" )
+     ("JEDEC_TYPE" "LED-KINGBRIGHT_3P_2P54" )
+     ("PART_NAME" "Z_LED_WP59CGKSYKW" )
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("VALUE" "WP59CGKSYKW" )
+     ("CDS_LMAN_SYM_OUTLINE" "-100,25,100,-25" )
+     ("CDS_LIB" "z_display" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "Z19" )
+     ("\\$location\\" "Z19" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(-6425,5800)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\3\\" 
+     (Pr 
+      ("\\$pn\\" "Y" )))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "C" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "G" ))))
+   (Inst "page1_I29" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("PART_NAME" "Z_LED_WP59CGKSYKW" )
+     ("JEDEC_TYPE" "LED-KINGBRIGHT_3P_2P54" )
+     ("PART_NUMBER" "10020811" )
+     ("VALUE" "WP59CGKSYKW" )
+     ("CDS_LMAN_SYM_OUTLINE" "-100,25,100,-25" )
+     ("CDS_LIB" "z_display" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "Z18" )
+     ("\\$location\\" "Z18" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(-1625,7300)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\3\\" 
+     (Pr 
+      ("\\$pn\\" "Y" )))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "C" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "G" ))))
+   (Inst "page1_I30" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("PART_NAME" "Z_LED_WP59CGKSYKW" )
+     ("JEDEC_TYPE" "LED-KINGBRIGHT_3P_2P54" )
+     ("PART_NUMBER" "10020811" )
+     ("VALUE" "WP59CGKSYKW" )
+     ("CDS_LMAN_SYM_OUTLINE" "-100,25,100,-25" )
+     ("CDS_LIB" "z_display" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "Z17" )
+     ("\\$location\\" "Z17" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(-875,7300)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\3\\" 
+     (Pr 
+      ("\\$pn\\" "Y" )))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "C" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "G" ))))
+   (Inst "page1_I31" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("PART_NAME" "Z_LED_WP59CGKSYKW" )
+     ("JEDEC_TYPE" "LED-KINGBRIGHT_3P_2P54" )
+     ("PART_NUMBER" "10020811" )
+     ("VALUE" "WP59CGKSYKW" )
+     ("CDS_LMAN_SYM_OUTLINE" "-100,25,100,-25" )
+     ("CDS_LIB" "z_display" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "Z25" )
+     ("\\$location\\" "Z25" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(-2250,7350)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\3\\" 
+     (Pr 
+      ("\\$pn\\" "Y" )))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "C" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "G" ))))
+   (Inst "page1_I32" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("PART_NAME" "Z_LED_WP59CGKSYKW" )
+     ("JEDEC_TYPE" "LED-KINGBRIGHT_3P_2P54" )
+     ("PART_NUMBER" "10020811" )
+     ("VALUE" "WP59CGKSYKW" )
+     ("CDS_LMAN_SYM_OUTLINE" "-100,25,100,-25" )
+     ("CDS_LIB" "z_display" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "Z24" )
+     ("\\$location\\" "Z24" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(-3000,7350)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\3\\" 
+     (Pr 
+      ("\\$pn\\" "Y" )))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "C" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "G" ))))
+   (Inst "page1_I33" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("PART_NAME" "Z_LED_WP59CGKSYKW" )
+     ("JEDEC_TYPE" "LED-KINGBRIGHT_3P_2P54" )
+     ("PART_NUMBER" "10020811" )
+     ("VALUE" "WP59CGKSYKW" )
+     ("CDS_LMAN_SYM_OUTLINE" "-100,25,100,-25" )
+     ("CDS_LIB" "z_display" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "Z23" )
+     ("\\$location\\" "Z23" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(-3650,7350)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\3\\" 
+     (Pr 
+      ("\\$pn\\" "Y" )))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "C" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "G" ))))
+   (Inst "page1_I34" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("PART_NAME" "Z_LED_WP59CGKSYKW" )
+     ("JEDEC_TYPE" "LED-KINGBRIGHT_3P_2P54" )
+     ("PART_NUMBER" "10020811" )
+     ("VALUE" "WP59CGKSYKW" )
+     ("CDS_LMAN_SYM_OUTLINE" "-100,25,100,-25" )
+     ("CDS_LIB" "z_display" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "Z22" )
+     ("\\$location\\" "Z22" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(-4400,7350)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\3\\" 
+     (Pr 
+      ("\\$pn\\" "Y" )))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "C" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "G" ))))
+   (Inst "page1_I35" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("PART_NAME" "Z_LED_WP59CGKSYKW" )
+     ("JEDEC_TYPE" "LED-KINGBRIGHT_3P_2P54" )
+     ("PART_NUMBER" "10020811" )
+     ("VALUE" "WP59CGKSYKW" )
+     ("CDS_LMAN_SYM_OUTLINE" "-100,25,100,-25" )
+     ("CDS_LIB" "z_display" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "Z21" )
+     ("\\$location\\" "Z21" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(-5025,7400)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\3\\" 
+     (Pr 
+      ("\\$pn\\" "Y" )))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "C" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "G" ))))
+   (Inst "page1_I36" 
+    (Pr 
+     ("NEEDS_NO_SIZE" "TRUE" )
+     ("PART_NAME" "Z_LED_WP59CGKSYKW" )
+     ("JEDEC_TYPE" "LED-KINGBRIGHT_3P_2P54" )
+     ("PART_NUMBER" "10020811" )
+     ("VALUE" "WP59CGKSYKW" )
+     ("CDS_LMAN_SYM_OUTLINE" "-100,25,100,-25" )
+     ("CDS_LIB" "z_display" )
+     ("CDS_SEC" "1" )
+     ("\\$sec\\" "1" )
+     ("CDS_LOCATION" "Z20" )
+     ("\\$location\\" "Z20" )
+     ("ROT" "0" )
+     ("VER" "1" )
+     ("XY" "(-5775,7400)" )
+     ("PHYS_PAGE" "1" ))
+    (IPrt "\\3\\" 
+     (Pr 
+      ("\\$pn\\" "Y" )))
+    (IPrt "\\2\\" 
+     (Pr 
+      ("\\$pn\\" "C" )))
+    (IPrt "\\1\\" 
+     (Pr 
+      ("\\$pn\\" "G" )))))))

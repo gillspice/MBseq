@@ -1,0 +1,745 @@
+FILE_TYPE=EXPANDEDPARTLIST;
+{ Packager-XL run on 24-Aug-2012 AT 17:11:55 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='MBSEQ';
+ POST_TIME='24-Aug-2012 AT 17:11:55';
+ SOURCE_TOOL='PACKAGER_XL';
+END_DIRECTIVES;
+
+PART_NAME
+ J1 'J_2X5_ST_AMP_534206-10016967,5B':;
+
+SECTION_NUMBER 1
+ '@MBSEQ_LIB.MBSEQ(SCH_1):PAGE1_I10@J_CONNECTOR2FJUMPER.J_2X5_ST(CHIPS)':
+ C_PATH='@mbseq_lib.mbseq(sch_1):page1_i10@j_connector2fjumper.j_2x5_st(chips)',
+ P_PATH='@mbseq_lib.mbseq(sch_1):page1_i10@j_connector2fjumper.j_2x5_st(chips)',
+ PATH='I10',
+ DRAWING='@MBSEQ_LIB.MBSEQ(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(-8150,3900)',
+ VER='1',
+ ROT='2',
+ PART_NUMBER='10016967',
+ CDS_LIB='j_connector2fjumper',
+ PART_NAME='J_2X5_ST_AMP_534206',
+ JEDEC_TYPE='CONN-AMP-2X5PIN-100MIL-ST',
+ VALUE='534206-5',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/j_connector2fjumper/j_2x5_st/chips/chips.prt';
+
+PART_NAME
+ J2 'J_2X5_ST_AMP_534206-10016967,5B':;
+
+SECTION_NUMBER 1
+ '@MBSEQ_LIB.MBSEQ(SCH_1):PAGE1_I11@J_CONNECTOR2FJUMPER.J_2X5_ST(CHIPS)':
+ C_PATH='@mbseq_lib.mbseq(sch_1):page1_i11@j_connector2fjumper.j_2x5_st(chips)',
+ P_PATH='@mbseq_lib.mbseq(sch_1):page1_i11@j_connector2fjumper.j_2x5_st(chips)',
+ PATH='I11',
+ DRAWING='@MBSEQ_LIB.MBSEQ(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(-6125,3900)',
+ VER='1',
+ ROT='2',
+ PART_NUMBER='10016967',
+ JEDEC_TYPE='CONN-AMP-2X5PIN-100MIL-ST',
+ PART_NAME='J_2X5_ST_AMP_534206',
+ CDS_LIB='j_connector2fjumper',
+ VALUE='534206-5',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/j_connector2fjumper/j_2x5_st/chips/chips.prt';
+
+PART_NAME
+ S1 'S_EC11B-10018475,EC11E15244,SWB':;
+
+SECTION_NUMBER 1
+ '@MBSEQ_LIB.MBSEQ(SCH_1):PAGE1_I9@S_SWITCH.S_EC11B(CHIPS)':
+ C_PATH='@mbseq_lib.mbseq(sch_1):page1_i9@s_switch.s_ec11b(chips)',
+ P_PATH='@mbseq_lib.mbseq(sch_1):page1_i9@s_switch.s_ec11b(chips)',
+ PATH='I9',
+ DRAWING='@MBSEQ_LIB.MBSEQ(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(-8900,4900)',
+ VER='1',
+ ROT='3',
+ PART_NUMBER='10018475',
+ CDS_LIB='s_switch',
+ PART_NAME='S_EC11B',
+ JEDEC_TYPE='SWITCH-EC11E15244',
+ VALUE='EC11E15244',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/s_switch/s_ec11b/chips/chips.prt';
+
+PART_NAME
+ S2 'S_EC11B-10018475,EC11E15244,SWB':;
+
+SECTION_NUMBER 1
+ '@MBSEQ_LIB.MBSEQ(SCH_1):PAGE1_I8@S_SWITCH.S_EC11B(CHIPS)':
+ C_PATH='@mbseq_lib.mbseq(sch_1):page1_i8@s_switch.s_ec11b(chips)',
+ P_PATH='@mbseq_lib.mbseq(sch_1):page1_i8@s_switch.s_ec11b(chips)',
+ PATH='I8',
+ DRAWING='@MBSEQ_LIB.MBSEQ(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(-8425,4900)',
+ VER='1',
+ ROT='3',
+ PART_NUMBER='10018475',
+ CDS_LIB='s_switch',
+ PART_NAME='S_EC11B',
+ JEDEC_TYPE='SWITCH-EC11E15244',
+ VALUE='EC11E15244',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/s_switch/s_ec11b/chips/chips.prt';
+
+PART_NAME
+ S3 'S_EC11B-10018475,EC11E15244,SWB':;
+
+SECTION_NUMBER 1
+ '@MBSEQ_LIB.MBSEQ(SCH_1):PAGE1_I7@S_SWITCH.S_EC11B(CHIPS)':
+ C_PATH='@mbseq_lib.mbseq(sch_1):page1_i7@s_switch.s_ec11b(chips)',
+ P_PATH='@mbseq_lib.mbseq(sch_1):page1_i7@s_switch.s_ec11b(chips)',
+ PATH='I7',
+ DRAWING='@MBSEQ_LIB.MBSEQ(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(-7800,4900)',
+ VER='1',
+ ROT='3',
+ PART_NUMBER='10018475',
+ JEDEC_TYPE='SWITCH-EC11E15244',
+ PART_NAME='S_EC11B',
+ CDS_LIB='s_switch',
+ VALUE='EC11E15244',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/s_switch/s_ec11b/chips/chips.prt';
+
+PART_NAME
+ S4 'S_EC11B-10018475,EC11E15244,SWB':;
+
+SECTION_NUMBER 1
+ '@MBSEQ_LIB.MBSEQ(SCH_1):PAGE1_I6@S_SWITCH.S_EC11B(CHIPS)':
+ C_PATH='@mbseq_lib.mbseq(sch_1):page1_i6@s_switch.s_ec11b(chips)',
+ P_PATH='@mbseq_lib.mbseq(sch_1):page1_i6@s_switch.s_ec11b(chips)',
+ PATH='I6',
+ DRAWING='@MBSEQ_LIB.MBSEQ(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(-7350,4900)',
+ VER='1',
+ ROT='3',
+ PART_NUMBER='10018475',
+ CDS_LIB='s_switch',
+ PART_NAME='S_EC11B',
+ JEDEC_TYPE='SWITCH-EC11E15244',
+ VALUE='EC11E15244',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/s_switch/s_ec11b/chips/chips.prt';
+
+PART_NAME
+ S5 'S_EC11B-10018475,EC11E15244,SWB':;
+
+SECTION_NUMBER 1
+ '@MBSEQ_LIB.MBSEQ(SCH_1):PAGE1_I1@S_SWITCH.S_EC11B(CHIPS)':
+ C_PATH='@mbseq_lib.mbseq(sch_1):page1_i1@s_switch.s_ec11b(chips)',
+ P_PATH='@mbseq_lib.mbseq(sch_1):page1_i1@s_switch.s_ec11b(chips)',
+ PATH='I1',
+ DRAWING='@MBSEQ_LIB.MBSEQ(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(-6875,4900)',
+ VER='1',
+ ROT='3',
+ PART_NUMBER='10018475',
+ JEDEC_TYPE='SWITCH-EC11E15244',
+ PART_NAME='S_EC11B',
+ CDS_LIB='s_switch',
+ VALUE='EC11E15244',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/s_switch/s_ec11b/chips/chips.prt';
+
+PART_NAME
+ S6 'S_EC11B-10018475,EC11E15244,SWB':;
+
+SECTION_NUMBER 1
+ '@MBSEQ_LIB.MBSEQ(SCH_1):PAGE1_I2@S_SWITCH.S_EC11B(CHIPS)':
+ C_PATH='@mbseq_lib.mbseq(sch_1):page1_i2@s_switch.s_ec11b(chips)',
+ P_PATH='@mbseq_lib.mbseq(sch_1):page1_i2@s_switch.s_ec11b(chips)',
+ PATH='I2',
+ DRAWING='@MBSEQ_LIB.MBSEQ(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(-6400,4900)',
+ VER='1',
+ ROT='3',
+ PART_NUMBER='10018475',
+ JEDEC_TYPE='SWITCH-EC11E15244',
+ PART_NAME='S_EC11B',
+ CDS_LIB='s_switch',
+ VALUE='EC11E15244',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/s_switch/s_ec11b/chips/chips.prt';
+
+PART_NAME
+ S7 'S_EC11B-10018475,EC11E15244,SWB':;
+
+SECTION_NUMBER 1
+ '@MBSEQ_LIB.MBSEQ(SCH_1):PAGE1_I3@S_SWITCH.S_EC11B(CHIPS)':
+ C_PATH='@mbseq_lib.mbseq(sch_1):page1_i3@s_switch.s_ec11b(chips)',
+ P_PATH='@mbseq_lib.mbseq(sch_1):page1_i3@s_switch.s_ec11b(chips)',
+ PATH='I3',
+ DRAWING='@MBSEQ_LIB.MBSEQ(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(-5775,4900)',
+ VER='1',
+ ROT='3',
+ PART_NUMBER='10018475',
+ JEDEC_TYPE='SWITCH-EC11E15244',
+ PART_NAME='S_EC11B',
+ CDS_LIB='s_switch',
+ VALUE='EC11E15244',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/s_switch/s_ec11b/chips/chips.prt';
+
+PART_NAME
+ S8 'S_EC11B-10018475,EC11E15244,SWB':;
+
+SECTION_NUMBER 1
+ '@MBSEQ_LIB.MBSEQ(SCH_1):PAGE1_I4@S_SWITCH.S_EC11B(CHIPS)':
+ C_PATH='@mbseq_lib.mbseq(sch_1):page1_i4@s_switch.s_ec11b(chips)',
+ P_PATH='@mbseq_lib.mbseq(sch_1):page1_i4@s_switch.s_ec11b(chips)',
+ PATH='I4',
+ DRAWING='@MBSEQ_LIB.MBSEQ(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(-5325,4900)',
+ VER='1',
+ ROT='3',
+ PART_NUMBER='10018475',
+ CDS_LIB='s_switch',
+ PART_NAME='S_EC11B',
+ JEDEC_TYPE='SWITCH-EC11E15244',
+ VALUE='EC11E15244',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/s_switch/s_ec11b/chips/chips.prt';
+
+PART_NAME
+ Z1 'Z_LED_WP59CGKSYKW-10020811,WP5B':;
+
+SECTION_NUMBER 1
+ '@MBSEQ_LIB.MBSEQ(SCH_1):PAGE1_I27@Z_DISPLAY.Z_LED_WP59CGKSYKW(CHIPS)':
+ C_PATH='@mbseq_lib.mbseq(sch_1):page1_i27@z_display.z_led_wp59cgksykw(chips)',
+ P_PATH='@mbseq_lib.mbseq(sch_1):page1_i27@z_display.z_led_wp59cgksykw(chips)',
+ PATH='I27',
+ DRAWING='@MBSEQ_LIB.MBSEQ(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(-5825,6025)',
+ VER='1',
+ ROT='0',
+ CDS_LIB='z_display',
+ PART_NAME='Z_LED_WP59CGKSYKW',
+ JEDEC_TYPE='LED-KINGBRIGHT_3P_2P54',
+ PART_NUMBER='10020811',
+ VALUE='WP59CGKSYKW',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/z_display/z_led_wp59cgksykw/chips/chips.prt';
+
+PART_NAME
+ Z2 'Z_LED_WP59CGKSYKW-10020811,WP5B':;
+
+SECTION_NUMBER 1
+ '@MBSEQ_LIB.MBSEQ(SCH_1):PAGE1_I12@Z_DISPLAY.Z_LED_WP59CGKSYKW(CHIPS)':
+ C_PATH='@mbseq_lib.mbseq(sch_1):page1_i12@z_display.z_led_wp59cgksykw(chips)',
+ P_PATH='@mbseq_lib.mbseq(sch_1):page1_i12@z_display.z_led_wp59cgksykw(chips)',
+ PATH='I12',
+ DRAWING='@MBSEQ_LIB.MBSEQ(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(-5725,6600)',
+ VER='1',
+ ROT='0',
+ PART_NUMBER='10020811',
+ JEDEC_TYPE='LED-KINGBRIGHT_3P_2P54',
+ PART_NAME='Z_LED_WP59CGKSYKW',
+ CDS_LIB='z_display',
+ VALUE='WP59CGKSYKW',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/z_display/z_led_wp59cgksykw/chips/chips.prt';
+
+PART_NAME
+ Z3 'Z_LED_WP59CGKSYKW-10020811,WP5B':;
+
+SECTION_NUMBER 1
+ '@MBSEQ_LIB.MBSEQ(SCH_1):PAGE1_I26@Z_DISPLAY.Z_LED_WP59CGKSYKW(CHIPS)':
+ C_PATH='@mbseq_lib.mbseq(sch_1):page1_i26@z_display.z_led_wp59cgksykw(chips)',
+ P_PATH='@mbseq_lib.mbseq(sch_1):page1_i26@z_display.z_led_wp59cgksykw(chips)',
+ PATH='I26',
+ DRAWING='@MBSEQ_LIB.MBSEQ(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(-5075,6025)',
+ VER='1',
+ ROT='0',
+ CDS_LIB='z_display',
+ PART_NAME='Z_LED_WP59CGKSYKW',
+ JEDEC_TYPE='LED-KINGBRIGHT_3P_2P54',
+ PART_NUMBER='10020811',
+ VALUE='WP59CGKSYKW',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/z_display/z_led_wp59cgksykw/chips/chips.prt';
+
+PART_NAME
+ Z4 'Z_LED_WP59CGKSYKW-10020811,WP5B':;
+
+SECTION_NUMBER 1
+ '@MBSEQ_LIB.MBSEQ(SCH_1):PAGE1_I13@Z_DISPLAY.Z_LED_WP59CGKSYKW(CHIPS)':
+ C_PATH='@mbseq_lib.mbseq(sch_1):page1_i13@z_display.z_led_wp59cgksykw(chips)',
+ P_PATH='@mbseq_lib.mbseq(sch_1):page1_i13@z_display.z_led_wp59cgksykw(chips)',
+ PATH='I13',
+ DRAWING='@MBSEQ_LIB.MBSEQ(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(-4975,6600)',
+ VER='1',
+ ROT='0',
+ PART_NUMBER='10020811',
+ JEDEC_TYPE='LED-KINGBRIGHT_3P_2P54',
+ PART_NAME='Z_LED_WP59CGKSYKW',
+ CDS_LIB='z_display',
+ VALUE='WP59CGKSYKW',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/z_display/z_led_wp59cgksykw/chips/chips.prt';
+
+PART_NAME
+ Z5 'Z_LED_WP59CGKSYKW-10020811,WP5B':;
+
+SECTION_NUMBER 1
+ '@MBSEQ_LIB.MBSEQ(SCH_1):PAGE1_I25@Z_DISPLAY.Z_LED_WP59CGKSYKW(CHIPS)':
+ C_PATH='@mbseq_lib.mbseq(sch_1):page1_i25@z_display.z_led_wp59cgksykw(chips)',
+ P_PATH='@mbseq_lib.mbseq(sch_1):page1_i25@z_display.z_led_wp59cgksykw(chips)',
+ PATH='I25',
+ DRAWING='@MBSEQ_LIB.MBSEQ(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(-4450,5975)',
+ VER='1',
+ ROT='0',
+ CDS_LIB='z_display',
+ PART_NAME='Z_LED_WP59CGKSYKW',
+ JEDEC_TYPE='LED-KINGBRIGHT_3P_2P54',
+ PART_NUMBER='10020811',
+ VALUE='WP59CGKSYKW',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/z_display/z_led_wp59cgksykw/chips/chips.prt';
+
+PART_NAME
+ Z6 'Z_LED_WP59CGKSYKW-10020811,WP5B':;
+
+SECTION_NUMBER 1
+ '@MBSEQ_LIB.MBSEQ(SCH_1):PAGE1_I15@Z_DISPLAY.Z_LED_WP59CGKSYKW(CHIPS)':
+ C_PATH='@mbseq_lib.mbseq(sch_1):page1_i15@z_display.z_led_wp59cgksykw(chips)',
+ P_PATH='@mbseq_lib.mbseq(sch_1):page1_i15@z_display.z_led_wp59cgksykw(chips)',
+ PATH='I15',
+ DRAWING='@MBSEQ_LIB.MBSEQ(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(-4350,6550)',
+ VER='1',
+ ROT='0',
+ PART_NUMBER='10020811',
+ JEDEC_TYPE='LED-KINGBRIGHT_3P_2P54',
+ PART_NAME='Z_LED_WP59CGKSYKW',
+ CDS_LIB='z_display',
+ VALUE='WP59CGKSYKW',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/z_display/z_led_wp59cgksykw/chips/chips.prt';
+
+PART_NAME
+ Z7 'Z_LED_WP59CGKSYKW-10020811,WP5B':;
+
+SECTION_NUMBER 1
+ '@MBSEQ_LIB.MBSEQ(SCH_1):PAGE1_I24@Z_DISPLAY.Z_LED_WP59CGKSYKW(CHIPS)':
+ C_PATH='@mbseq_lib.mbseq(sch_1):page1_i24@z_display.z_led_wp59cgksykw(chips)',
+ P_PATH='@mbseq_lib.mbseq(sch_1):page1_i24@z_display.z_led_wp59cgksykw(chips)',
+ PATH='I24',
+ DRAWING='@MBSEQ_LIB.MBSEQ(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(-3700,5975)',
+ VER='1',
+ ROT='0',
+ CDS_LIB='z_display',
+ PART_NAME='Z_LED_WP59CGKSYKW',
+ JEDEC_TYPE='LED-KINGBRIGHT_3P_2P54',
+ PART_NUMBER='10020811',
+ VALUE='WP59CGKSYKW',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/z_display/z_led_wp59cgksykw/chips/chips.prt';
+
+PART_NAME
+ Z8 'Z_LED_WP59CGKSYKW-10020811,WP5B':;
+
+SECTION_NUMBER 1
+ '@MBSEQ_LIB.MBSEQ(SCH_1):PAGE1_I14@Z_DISPLAY.Z_LED_WP59CGKSYKW(CHIPS)':
+ C_PATH='@mbseq_lib.mbseq(sch_1):page1_i14@z_display.z_led_wp59cgksykw(chips)',
+ P_PATH='@mbseq_lib.mbseq(sch_1):page1_i14@z_display.z_led_wp59cgksykw(chips)',
+ PATH='I14',
+ DRAWING='@MBSEQ_LIB.MBSEQ(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(-3600,6550)',
+ VER='1',
+ ROT='0',
+ PART_NUMBER='10020811',
+ JEDEC_TYPE='LED-KINGBRIGHT_3P_2P54',
+ PART_NAME='Z_LED_WP59CGKSYKW',
+ CDS_LIB='z_display',
+ VALUE='WP59CGKSYKW',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/z_display/z_led_wp59cgksykw/chips/chips.prt';
+
+PART_NAME
+ Z9 'Z_LED_WP59CGKSYKW-10020811,WP5B':;
+
+SECTION_NUMBER 1
+ '@MBSEQ_LIB.MBSEQ(SCH_1):PAGE1_I23@Z_DISPLAY.Z_LED_WP59CGKSYKW(CHIPS)':
+ C_PATH='@mbseq_lib.mbseq(sch_1):page1_i23@z_display.z_led_wp59cgksykw(chips)',
+ P_PATH='@mbseq_lib.mbseq(sch_1):page1_i23@z_display.z_led_wp59cgksykw(chips)',
+ PATH='I23',
+ DRAWING='@MBSEQ_LIB.MBSEQ(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(-3050,5975)',
+ VER='1',
+ ROT='0',
+ CDS_LIB='z_display',
+ PART_NAME='Z_LED_WP59CGKSYKW',
+ JEDEC_TYPE='LED-KINGBRIGHT_3P_2P54',
+ PART_NUMBER='10020811',
+ VALUE='WP59CGKSYKW',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/z_display/z_led_wp59cgksykw/chips/chips.prt';
+
+PART_NAME
+ Z10 'Z_LED_WP59CGKSYKW-10020811,WP5B':;
+
+SECTION_NUMBER 1
+ '@MBSEQ_LIB.MBSEQ(SCH_1):PAGE1_I19@Z_DISPLAY.Z_LED_WP59CGKSYKW(CHIPS)':
+ C_PATH='@mbseq_lib.mbseq(sch_1):page1_i19@z_display.z_led_wp59cgksykw(chips)',
+ P_PATH='@mbseq_lib.mbseq(sch_1):page1_i19@z_display.z_led_wp59cgksykw(chips)',
+ PATH='I19',
+ DRAWING='@MBSEQ_LIB.MBSEQ(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(-2950,6550)',
+ VER='1',
+ ROT='0',
+ PART_NUMBER='10020811',
+ JEDEC_TYPE='LED-KINGBRIGHT_3P_2P54',
+ PART_NAME='Z_LED_WP59CGKSYKW',
+ CDS_LIB='z_display',
+ VALUE='WP59CGKSYKW',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/z_display/z_led_wp59cgksykw/chips/chips.prt';
+
+PART_NAME
+ Z11 'Z_LED_WP59CGKSYKW-10020811,WP5B':;
+
+SECTION_NUMBER 1
+ '@MBSEQ_LIB.MBSEQ(SCH_1):PAGE1_I22@Z_DISPLAY.Z_LED_WP59CGKSYKW(CHIPS)':
+ C_PATH='@mbseq_lib.mbseq(sch_1):page1_i22@z_display.z_led_wp59cgksykw(chips)',
+ P_PATH='@mbseq_lib.mbseq(sch_1):page1_i22@z_display.z_led_wp59cgksykw(chips)',
+ PATH='I22',
+ DRAWING='@MBSEQ_LIB.MBSEQ(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(-2300,5975)',
+ VER='1',
+ ROT='0',
+ CDS_LIB='z_display',
+ PART_NAME='Z_LED_WP59CGKSYKW',
+ JEDEC_TYPE='LED-KINGBRIGHT_3P_2P54',
+ PART_NUMBER='10020811',
+ VALUE='WP59CGKSYKW',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/z_display/z_led_wp59cgksykw/chips/chips.prt';
+
+PART_NAME
+ Z12 'Z_LED_WP59CGKSYKW-10020811,WP5B':;
+
+SECTION_NUMBER 1
+ '@MBSEQ_LIB.MBSEQ(SCH_1):PAGE1_I18@Z_DISPLAY.Z_LED_WP59CGKSYKW(CHIPS)':
+ C_PATH='@mbseq_lib.mbseq(sch_1):page1_i18@z_display.z_led_wp59cgksykw(chips)',
+ P_PATH='@mbseq_lib.mbseq(sch_1):page1_i18@z_display.z_led_wp59cgksykw(chips)',
+ PATH='I18',
+ DRAWING='@MBSEQ_LIB.MBSEQ(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(-2200,6550)',
+ VER='1',
+ ROT='0',
+ PART_NUMBER='10020811',
+ JEDEC_TYPE='LED-KINGBRIGHT_3P_2P54',
+ PART_NAME='Z_LED_WP59CGKSYKW',
+ CDS_LIB='z_display',
+ VALUE='WP59CGKSYKW',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/z_display/z_led_wp59cgksykw/chips/chips.prt';
+
+PART_NAME
+ Z13 'Z_LED_WP59CGKSYKW-10020811,WP5B':;
+
+SECTION_NUMBER 1
+ '@MBSEQ_LIB.MBSEQ(SCH_1):PAGE1_I21@Z_DISPLAY.Z_LED_WP59CGKSYKW(CHIPS)':
+ C_PATH='@mbseq_lib.mbseq(sch_1):page1_i21@z_display.z_led_wp59cgksykw(chips)',
+ P_PATH='@mbseq_lib.mbseq(sch_1):page1_i21@z_display.z_led_wp59cgksykw(chips)',
+ PATH='I21',
+ DRAWING='@MBSEQ_LIB.MBSEQ(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(-1675,5925)',
+ VER='1',
+ ROT='0',
+ CDS_LIB='z_display',
+ PART_NAME='Z_LED_WP59CGKSYKW',
+ JEDEC_TYPE='LED-KINGBRIGHT_3P_2P54',
+ PART_NUMBER='10020811',
+ VALUE='WP59CGKSYKW',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/z_display/z_led_wp59cgksykw/chips/chips.prt';
+
+PART_NAME
+ Z14 'Z_LED_WP59CGKSYKW-10020811,WP5B':;
+
+SECTION_NUMBER 1
+ '@MBSEQ_LIB.MBSEQ(SCH_1):PAGE1_I17@Z_DISPLAY.Z_LED_WP59CGKSYKW(CHIPS)':
+ C_PATH='@mbseq_lib.mbseq(sch_1):page1_i17@z_display.z_led_wp59cgksykw(chips)',
+ P_PATH='@mbseq_lib.mbseq(sch_1):page1_i17@z_display.z_led_wp59cgksykw(chips)',
+ PATH='I17',
+ DRAWING='@MBSEQ_LIB.MBSEQ(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(-1575,6500)',
+ VER='1',
+ ROT='0',
+ PART_NUMBER='10020811',
+ JEDEC_TYPE='LED-KINGBRIGHT_3P_2P54',
+ PART_NAME='Z_LED_WP59CGKSYKW',
+ CDS_LIB='z_display',
+ VALUE='WP59CGKSYKW',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/z_display/z_led_wp59cgksykw/chips/chips.prt';
+
+PART_NAME
+ Z15 'Z_LED_WP59CGKSYKW-10020811,WP5B':;
+
+SECTION_NUMBER 1
+ '@MBSEQ_LIB.MBSEQ(SCH_1):PAGE1_I20@Z_DISPLAY.Z_LED_WP59CGKSYKW(CHIPS)':
+ C_PATH='@mbseq_lib.mbseq(sch_1):page1_i20@z_display.z_led_wp59cgksykw(chips)',
+ P_PATH='@mbseq_lib.mbseq(sch_1):page1_i20@z_display.z_led_wp59cgksykw(chips)',
+ PATH='I20',
+ DRAWING='@MBSEQ_LIB.MBSEQ(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(-925,5925)',
+ VER='1',
+ ROT='0',
+ CDS_LIB='z_display',
+ PART_NAME='Z_LED_WP59CGKSYKW',
+ JEDEC_TYPE='LED-KINGBRIGHT_3P_2P54',
+ PART_NUMBER='10020811',
+ VALUE='WP59CGKSYKW',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/z_display/z_led_wp59cgksykw/chips/chips.prt';
+
+PART_NAME
+ Z16 'Z_LED_WP59CGKSYKW-10020811,WP5B':;
+
+SECTION_NUMBER 1
+ '@MBSEQ_LIB.MBSEQ(SCH_1):PAGE1_I16@Z_DISPLAY.Z_LED_WP59CGKSYKW(CHIPS)':
+ C_PATH='@mbseq_lib.mbseq(sch_1):page1_i16@z_display.z_led_wp59cgksykw(chips)',
+ P_PATH='@mbseq_lib.mbseq(sch_1):page1_i16@z_display.z_led_wp59cgksykw(chips)',
+ PATH='I16',
+ DRAWING='@MBSEQ_LIB.MBSEQ(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(-825,6500)',
+ VER='1',
+ ROT='0',
+ PART_NUMBER='10020811',
+ JEDEC_TYPE='LED-KINGBRIGHT_3P_2P54',
+ PART_NAME='Z_LED_WP59CGKSYKW',
+ CDS_LIB='z_display',
+ VALUE='WP59CGKSYKW',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/z_display/z_led_wp59cgksykw/chips/chips.prt';
+
+PART_NAME
+ Z17 'Z_LED_WP59CGKSYKW-10020811,WP5B':;
+
+SECTION_NUMBER 1
+ '@MBSEQ_LIB.MBSEQ(SCH_1):PAGE1_I30@Z_DISPLAY.Z_LED_WP59CGKSYKW(CHIPS)':
+ C_PATH='@mbseq_lib.mbseq(sch_1):page1_i30@z_display.z_led_wp59cgksykw(chips)',
+ P_PATH='@mbseq_lib.mbseq(sch_1):page1_i30@z_display.z_led_wp59cgksykw(chips)',
+ PATH='I30',
+ DRAWING='@MBSEQ_LIB.MBSEQ(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(-875,7300)',
+ VER='1',
+ ROT='0',
+ CDS_LIB='z_display',
+ VALUE='WP59CGKSYKW',
+ PART_NUMBER='10020811',
+ JEDEC_TYPE='LED-KINGBRIGHT_3P_2P54',
+ PART_NAME='Z_LED_WP59CGKSYKW',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/z_display/z_led_wp59cgksykw/chips/chips.prt';
+
+PART_NAME
+ Z18 'Z_LED_WP59CGKSYKW-10020811,WP5B':;
+
+SECTION_NUMBER 1
+ '@MBSEQ_LIB.MBSEQ(SCH_1):PAGE1_I29@Z_DISPLAY.Z_LED_WP59CGKSYKW(CHIPS)':
+ C_PATH='@mbseq_lib.mbseq(sch_1):page1_i29@z_display.z_led_wp59cgksykw(chips)',
+ P_PATH='@mbseq_lib.mbseq(sch_1):page1_i29@z_display.z_led_wp59cgksykw(chips)',
+ PATH='I29',
+ DRAWING='@MBSEQ_LIB.MBSEQ(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(-1625,7300)',
+ VER='1',
+ ROT='0',
+ CDS_LIB='z_display',
+ VALUE='WP59CGKSYKW',
+ PART_NUMBER='10020811',
+ JEDEC_TYPE='LED-KINGBRIGHT_3P_2P54',
+ PART_NAME='Z_LED_WP59CGKSYKW',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/z_display/z_led_wp59cgksykw/chips/chips.prt';
+
+PART_NAME
+ Z19 'Z_LED_WP59CGKSYKW-10020811,WP5B':;
+
+SECTION_NUMBER 1
+ '@MBSEQ_LIB.MBSEQ(SCH_1):PAGE1_I28@Z_DISPLAY.Z_LED_WP59CGKSYKW(CHIPS)':
+ C_PATH='@mbseq_lib.mbseq(sch_1):page1_i28@z_display.z_led_wp59cgksykw(chips)',
+ P_PATH='@mbseq_lib.mbseq(sch_1):page1_i28@z_display.z_led_wp59cgksykw(chips)',
+ PATH='I28',
+ DRAWING='@MBSEQ_LIB.MBSEQ(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(-6425,5800)',
+ VER='1',
+ ROT='0',
+ CDS_LIB='z_display',
+ VALUE='WP59CGKSYKW',
+ PART_NAME='Z_LED_WP59CGKSYKW',
+ JEDEC_TYPE='LED-KINGBRIGHT_3P_2P54',
+ PART_NUMBER='10020811',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/z_display/z_led_wp59cgksykw/chips/chips.prt';
+
+PART_NAME
+ Z20 'Z_LED_WP59CGKSYKW-10020811,WP5B':;
+
+SECTION_NUMBER 1
+ '@MBSEQ_LIB.MBSEQ(SCH_1):PAGE1_I36@Z_DISPLAY.Z_LED_WP59CGKSYKW(CHIPS)':
+ C_PATH='@mbseq_lib.mbseq(sch_1):page1_i36@z_display.z_led_wp59cgksykw(chips)',
+ P_PATH='@mbseq_lib.mbseq(sch_1):page1_i36@z_display.z_led_wp59cgksykw(chips)',
+ PATH='I36',
+ DRAWING='@MBSEQ_LIB.MBSEQ(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(-5775,7400)',
+ VER='1',
+ ROT='0',
+ CDS_LIB='z_display',
+ VALUE='WP59CGKSYKW',
+ PART_NUMBER='10020811',
+ JEDEC_TYPE='LED-KINGBRIGHT_3P_2P54',
+ PART_NAME='Z_LED_WP59CGKSYKW',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/z_display/z_led_wp59cgksykw/chips/chips.prt';
+
+PART_NAME
+ Z21 'Z_LED_WP59CGKSYKW-10020811,WP5B':;
+
+SECTION_NUMBER 1
+ '@MBSEQ_LIB.MBSEQ(SCH_1):PAGE1_I35@Z_DISPLAY.Z_LED_WP59CGKSYKW(CHIPS)':
+ C_PATH='@mbseq_lib.mbseq(sch_1):page1_i35@z_display.z_led_wp59cgksykw(chips)',
+ P_PATH='@mbseq_lib.mbseq(sch_1):page1_i35@z_display.z_led_wp59cgksykw(chips)',
+ PATH='I35',
+ DRAWING='@MBSEQ_LIB.MBSEQ(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(-5025,7400)',
+ VER='1',
+ ROT='0',
+ CDS_LIB='z_display',
+ VALUE='WP59CGKSYKW',
+ PART_NUMBER='10020811',
+ JEDEC_TYPE='LED-KINGBRIGHT_3P_2P54',
+ PART_NAME='Z_LED_WP59CGKSYKW',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/z_display/z_led_wp59cgksykw/chips/chips.prt';
+
+PART_NAME
+ Z22 'Z_LED_WP59CGKSYKW-10020811,WP5B':;
+
+SECTION_NUMBER 1
+ '@MBSEQ_LIB.MBSEQ(SCH_1):PAGE1_I34@Z_DISPLAY.Z_LED_WP59CGKSYKW(CHIPS)':
+ C_PATH='@mbseq_lib.mbseq(sch_1):page1_i34@z_display.z_led_wp59cgksykw(chips)',
+ P_PATH='@mbseq_lib.mbseq(sch_1):page1_i34@z_display.z_led_wp59cgksykw(chips)',
+ PATH='I34',
+ DRAWING='@MBSEQ_LIB.MBSEQ(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(-4400,7350)',
+ VER='1',
+ ROT='0',
+ CDS_LIB='z_display',
+ VALUE='WP59CGKSYKW',
+ PART_NUMBER='10020811',
+ JEDEC_TYPE='LED-KINGBRIGHT_3P_2P54',
+ PART_NAME='Z_LED_WP59CGKSYKW',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/z_display/z_led_wp59cgksykw/chips/chips.prt';
+
+PART_NAME
+ Z23 'Z_LED_WP59CGKSYKW-10020811,WP5B':;
+
+SECTION_NUMBER 1
+ '@MBSEQ_LIB.MBSEQ(SCH_1):PAGE1_I33@Z_DISPLAY.Z_LED_WP59CGKSYKW(CHIPS)':
+ C_PATH='@mbseq_lib.mbseq(sch_1):page1_i33@z_display.z_led_wp59cgksykw(chips)',
+ P_PATH='@mbseq_lib.mbseq(sch_1):page1_i33@z_display.z_led_wp59cgksykw(chips)',
+ PATH='I33',
+ DRAWING='@MBSEQ_LIB.MBSEQ(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(-3650,7350)',
+ VER='1',
+ ROT='0',
+ CDS_LIB='z_display',
+ VALUE='WP59CGKSYKW',
+ PART_NUMBER='10020811',
+ JEDEC_TYPE='LED-KINGBRIGHT_3P_2P54',
+ PART_NAME='Z_LED_WP59CGKSYKW',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/z_display/z_led_wp59cgksykw/chips/chips.prt';
+
+PART_NAME
+ Z24 'Z_LED_WP59CGKSYKW-10020811,WP5B':;
+
+SECTION_NUMBER 1
+ '@MBSEQ_LIB.MBSEQ(SCH_1):PAGE1_I32@Z_DISPLAY.Z_LED_WP59CGKSYKW(CHIPS)':
+ C_PATH='@mbseq_lib.mbseq(sch_1):page1_i32@z_display.z_led_wp59cgksykw(chips)',
+ P_PATH='@mbseq_lib.mbseq(sch_1):page1_i32@z_display.z_led_wp59cgksykw(chips)',
+ PATH='I32',
+ DRAWING='@MBSEQ_LIB.MBSEQ(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(-3000,7350)',
+ VER='1',
+ ROT='0',
+ CDS_LIB='z_display',
+ VALUE='WP59CGKSYKW',
+ PART_NUMBER='10020811',
+ JEDEC_TYPE='LED-KINGBRIGHT_3P_2P54',
+ PART_NAME='Z_LED_WP59CGKSYKW',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/z_display/z_led_wp59cgksykw/chips/chips.prt';
+
+PART_NAME
+ Z25 'Z_LED_WP59CGKSYKW-10020811,WP5B':;
+
+SECTION_NUMBER 1
+ '@MBSEQ_LIB.MBSEQ(SCH_1):PAGE1_I31@Z_DISPLAY.Z_LED_WP59CGKSYKW(CHIPS)':
+ C_PATH='@mbseq_lib.mbseq(sch_1):page1_i31@z_display.z_led_wp59cgksykw(chips)',
+ P_PATH='@mbseq_lib.mbseq(sch_1):page1_i31@z_display.z_led_wp59cgksykw(chips)',
+ PATH='I31',
+ DRAWING='@MBSEQ_LIB.MBSEQ(SCH_1):PAGE1',
+ PHYS_PAGE='1',
+ XY='(-2250,7350)',
+ VER='1',
+ ROT='0',
+ CDS_LIB='z_display',
+ VALUE='WP59CGKSYKW',
+ PART_NUMBER='10020811',
+ JEDEC_TYPE='LED-KINGBRIGHT_3P_2P54',
+ PART_NAME='Z_LED_WP59CGKSYKW',
+ PRIM_FILE='//applpark/technology/Electronics/InProcess/tools/npielect/GE_Librar~
+y_16/Components/z_display/z_led_wp59cgksykw/chips/chips.prt';
+
+END.

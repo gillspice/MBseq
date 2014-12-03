@@ -1,0 +1,28 @@
+FILE_TYPE=PINLIST;
+{ Packager-XL run on 24-Aug-2012 AT 17:10:35 }
+TIME=' COMPILATION ON 24-Aug-2012 AT 17:10:35';
+primitive 'J_2X5_ST_AMP_534206-10016967,5B';body 'J_2X5_ST';
+    '1':'(1)';BIDI;
+    '2':'(2)';BIDI;
+    '3':'(3)';BIDI;
+    '4':'(4)';BIDI;
+    '5':'(5)';BIDI;
+    '6':'(6)';BIDI;
+    '7':'(7)';BIDI;
+    '8':'(8)';BIDI;
+    '9':'(9)';BIDI;
+    '10':'(10)';BIDI;
+end_primitive;
+primitive 'S_EC11B-10018475,EC11E15244,SWB';body 'S_EC11B';
+    'A':'(1)';
+    'B':'(2)';
+    'C':'(3)';
+    'D':'(4)';
+    'E':'(5)';
+end_primitive;
+primitive 'Z_LED_WP59CGKSYKW-10020811,WP5B';body 'Z_LED_WP59CGKSYKW';
+    '2':'(C)';
+    '1':'(G)';
+    '3':'(Y)';
+end_primitive;
+END.

@@ -1,0 +1,207 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Technology File READ                                             )
+(                                                                     )
+(    Drawing          : mbseq.brd                                     )
+(    Software Version : 16.3S020                                      )
+(    Date/Time        : Thu Aug 02 16:14:53 2012                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+techfile name: \\applpark\technology\Electronics\InProcess\tools\npielect\GE_Library_16\PCB_Lib\Templates\Tech\techfile.tcf
+  layout name: mbseq.brd
+
+Technology Difference Report
+============================
+
+Design        : mbseq
+Input File    : \\applpark\technology\Electronics\InProcess\tools\npielect\GE_Library_16\PCB_Lib\Templates\Tech\techfile.tcf
+Update Mode   : Merge (no deletions will be done)
+Constraint Information : CrossSection, Electrical, Physical, Spacing, Same Net Spacing, NetClasses, Assembly, Properties
+Notes:
+------
+  - Attribute updates are reported as additions, deletions, or changes.
+  - Association updates are reported as additions or deletions. Associations
+    are the members of a MatchGroup, Constraint Set references, the PinPairs
+    of a Net, the members of a Differential Pair, etc.
+  - Clearing an object implies that the object does not exist so all attributes
+    and associations for the object will be deleted. These attribute and association
+    deletions are not included in the Summary totals. Objects are Constraint Sets,
+    Buses, XNets, Nets, etc.
+
+
+---------------------------------------------------------
+Design: mbseq
+     Changing : DESIGN_UNITS to "2,3" from "2,1"
+---------------------------------------------------------
+Layer: SURFACE_INDEX_0
+     Changing : CDS_LAYER_THERMAL_CONDUCTIVITY to "0.0002700" from "0.0000"
+---------------------------------------------------------
+Layer: TOP
+     Changing : CDS_LAYER_THICKNESS to "1.340" from "1.200"
+     Changing : CDS_LAYER_DIELECTRIC_CONSTANT to "1.000" from "4.500"
+     Changing : CDS_LAYER_THERMAL_CONDUCTIVITY to "3.980" from "0.0000"
+---------------------------------------------------------
+Layer: DIELECTRIC_BELOW_TOP
+     Changing : CDS_LAYER_THICKNESS to "60.000" from "8.000"
+     Changing : CDS_LAYER_THERMAL_CONDUCTIVITY to "0.01200" from "0.0000"
+---------------------------------------------------------
+Layer: BOTTOM
+     Changing : CDS_LAYER_THICKNESS to "1.340" from "1.200"
+     Changing : CDS_LAYER_DIELECTRIC_CONSTANT to "1.000" from "4.500"
+     Changing : CDS_LAYER_THERMAL_CONDUCTIVITY to "3.980" from "0.0000"
+---------------------------------------------------------
+Layer: SURFACE_BELOW_BOTTOM
+     Changing : CDS_LAYER_THERMAL_CONDUCTIVITY to "0.0002700" from "0.0000"
+---------------------------------------------------------
+Design: mbseq
+     Changing : DRAWING_EXTENTS to "34000.000,22000.000" from "21000.000,17000.000"
+     Adding   : SOLDERMASK_SPACING value "10.000"
+     Changing : PROPAGATION_DELAY_MIN_VMODE to "OFF" from "ON"
+     Changing : HOLE_TO_PIN_SPACING_VMODE to "ON" from "OFF"
+     Changing : HOLE_TO_VIA_SPACING_VMODE to "ON" from "OFF"
+     Changing : HOLE_TO_LINE_SPACING_VMODE to "ON" from "OFF"
+     Changing : HOLE_TO_SHAPE_SPACING_VMODE to "ON" from "OFF"
+     Changing : HOLE_TO_HOLE_SPACING_VMODE to "ON" from "OFF"
+     Changing : MVIA_TO_MVIA_SPACING_VMODE to "OFF" from "ON"
+     Changing : MVIA_TO_THRUPIN_SPACING_VMODE to "OFF" from "ON"
+     Changing : MVIA_TO_SMDPIN_SPACING_VMODE to "OFF" from "ON"
+     Changing : MVIA_TO_THRUVIA_SPACING_VMODE to "OFF" from "ON"
+     Changing : MVIA_TO_BBV_SPACING_VMODE to "OFF" from "ON"
+     Changing : MVIA_TO_LINE_SPACING_VMODE to "OFF" from "ON"
+     Changing : MVIA_TO_SHAPE_SPACING_VMODE to "OFF" from "ON"
+     Changing : MVIA_TO_TESTPIN_SPACING_VMODE to "OFF" from "ON"
+     Changing : MVIA_TO_TESTVIA_SPACING_VMODE to "OFF" from "ON"
+     Changing : BONDPAD_TO_MVIA_SPACING_VMODE to "OFF" from "ON"
+     Changing : MECH_PIN_TO_MECH_PIN_SPACING_VMODE to "ON" from "OFF"
+     Changing : MECH_PIN_TO_CONDUCTOR_SPACING_VMODE to "ON" from "OFF"
+---------------------------------------------------------
+PhysicalCSet: DEFAULT
+     Changing : MIN_LINE_WIDTH to "10.000,10.000" from "5.000,5.000"
+     Changing : MIN_NECK_WIDTH to "10.000,10.000" from "5.000,5.000"
+     Changing : VIA_LIST to "CIR76D38" from "VIA"
+---------------------------------------------------------
+SpacingCSet: DEFAULT
+     Changing : THRUPIN_TO_THRUVIA_SPACING to "20.000,20.000" from "5.000,5.000"
+     Changing : LINE_TO_THRUPIN_SPACING to "10.000,10.000" from "5.000,5.000"
+     Changing : THRUPIN_TO_SHAPE_SPACING to "10.000,10.000" from "5.000,5.000"
+     Changing : SMDPIN_TO_THRUVIA_SPACING to "10.000,10.000" from "5.000,5.000"
+     Changing : LINE_TO_SMDPIN_SPACING to "10.000,10.000" from "5.000,5.000"
+     Changing : SHAPE_TO_SMDPIN_SPACING to "10.000,10.000" from "5.000,5.000"
+     Changing : THRUVIA_TO_THRUVIA_SPACING to "20.000,20.000" from "5.000,5.000"
+     Changing : LINE_TO_THRUVIA_SPACING to "12.000,12.000" from "5.000,5.000"
+     Changing : SHAPE_TO_THRUVIA_SPACING to "12.000,12.000" from "5.000,5.000"
+     Changing : LINE_TO_LINE_SPACING to "10.000,10.000" from "5.000,5.000"
+     Changing : LINE_TO_SHAPE_SPACING to "10.000,10.000" from "5.000,5.000"
+     Changing : SHAPE_TO_SHAPE_SPACING to "10.000,10.000" from "5.000,5.000"
+     Changing : BBV_TO_BBV_SPACING to "20.000,20.000" from "5.000,5.000"
+     Changing : BBV_TO_THRUPIN_SPACING to "20.000,20.000" from "5.000,5.000"
+     Changing : BBV_TO_SMDPIN_SPACING to "10.000,10.000" from "5.000,5.000"
+     Changing : BBV_TO_THRUVIA_SPACING to "20.000,20.000" from "5.000,5.000"
+     Changing : BBV_TO_LINE_SPACING to "12.000,12.000" from "5.000,5.000"
+     Changing : BBV_TO_SHAPE_SPACING to "12.000,12.000" from "5.000,5.000"
+     Changing : BBV_TO_TESTPIN_SPACING to "20.000,20.000" from "5.000,5.000"
+     Changing : BBV_TO_TESTVIA_SPACING to "20.000,20.000" from "5.000,5.000"
+     Changing : TESTPIN_TO_THRUVIA_SPACING to "20.000,20.000" from "5.000,5.000"
+     Changing : TESTPIN_TO_TESTVIA_SPACING to "20.000,20.000" from "5.000,5.000"
+     Changing : LINE_TO_TESTPIN_SPACING to "10.000,10.000" from "5.000,5.000"
+     Changing : SHAPE_TO_TESTPIN_SPACING to "10.000,10.000" from "5.000,5.000"
+     Changing : TESTVIA_TO_TESTVIA_SPACING to "20.000,20.000" from "5.000,5.000"
+     Changing : TESTVIA_TO_THRUPIN_SPACING to "20.000,20.000" from "5.000,5.000"
+     Changing : SMDPIN_TO_TESTVIA_SPACING to "10.000,10.000" from "5.000,5.000"
+     Changing : TESTVIA_TO_THRUVIA_SPACING to "20.000,20.000" from "5.000,5.000"
+     Changing : LINE_TO_TESTVIA_SPACING to "12.000,12.000" from "5.000,5.000"
+     Changing : SHAPE_TO_TESTVIA_SPACING to "12.000,12.000" from "5.000,5.000"
+     Changing : BONDPAD_TO_BONDPAD_SPACING to "20.000,20.000" from "5.000,5.000"
+     Changing : THRUPIN_TO_BONDPAD_SPACING to "20.000,20.000" from "5.000,5.000"
+     Changing : SMDPIN_TO_BONDPAD_SPACING to "10.000,10.000" from "5.000,5.000"
+     Changing : BONDPAD_TO_THRUVIA_SPACING to "20.000,20.000" from "5.000,5.000"
+     Changing : BONDPAD_TO_LINE_SPACING to "12.000,12.000" from "5.000,5.000"
+     Changing : BONDPAD_TO_SHAPE_SPACING to "12.000,12.000" from "5.000,5.000"
+     Changing : BONDPAD_TO_BBV_SPACING to "20.000,20.000" from "5.000,5.000"
+     Changing : BONDPAD_TO_TESTPIN_SPACING to "20.000,20.000" from "5.000,5.000"
+     Changing : BONDPAD_TO_TESTVIA_SPACING to "20.000,20.000" from "5.000,5.000"
+     Changing : HOLE_TO_PIN_SPACING to "5.000,5.000" from "8.000,8.000"
+     Changing : HOLE_TO_VIA_SPACING to "20.000,20.000" from "8.000,8.000"
+     Changing : HOLE_TO_LINE_SPACING to "10.000,10.000" from "8.000,8.000"
+     Changing : HOLE_TO_SHAPE_SPACING to "10.000,10.000" from "8.000,8.000"
+     Changing : HOLE_TO_HOLE_SPACING to "5.000,5.000" from "8.000,8.000"
+     Changing : MVIA_TO_MVIA_SPACING to "20.000,20.000" from "5.000,5.000"
+     Changing : MVIA_TO_THRUPIN_SPACING to "20.000,20.000" from "5.000,5.000"
+     Changing : MVIA_TO_SMDPIN_SPACING to "10.000,10.000" from "5.000,5.000"
+     Changing : MVIA_TO_THRUVIA_SPACING to "20.000,20.000" from "5.000,5.000"
+     Changing : MVIA_TO_BBV_SPACING to "20.000,20.000" from "5.000,5.000"
+     Changing : MVIA_TO_LINE_SPACING to "12.000,12.000" from "5.000,5.000"
+     Changing : MVIA_TO_SHAPE_SPACING to "12.000,12.000" from "5.000,5.000"
+     Changing : MVIA_TO_TESTPIN_SPACING to "20.000,20.000" from "5.000,5.000"
+     Changing : MVIA_TO_TESTVIA_SPACING to "20.000,20.000" from "5.000,5.000"
+     Changing : BONDPAD_TO_MVIA_SPACING to "20.000,20.000" from "5.000,5.000"
+     Changing : BONDPAD_TO_BONDPAD_DIFFP_SPC to "0.000,0.000" from "5.000,5.000"
+---------------------------------------------------------
+SameNetSpacingCSet: DEFAULT
+     Changing : SN_THRUPIN_TO_THRUVIA_SPACING to "20.000,20.000" from "5.000,5.000"
+     Changing : SN_LINE_TO_THRUPIN_SPACING to "10.000,10.000" from "5.000,5.000"
+     Changing : SN_THRUPIN_TO_SHAPE_SPACING to "10.000,10.000" from "5.000,5.000"
+     Changing : SN_SMDPIN_TO_THRUVIA_SPACING to "10.000,10.000" from "5.000,5.000"
+     Changing : SN_LINE_TO_SMDPIN_SPACING to "10.000,10.000" from "5.000,5.000"
+     Changing : SN_SHAPE_TO_SMDPIN_SPACING to "10.000,10.000" from "5.000,5.000"
+     Changing : SN_THRUVIA_TO_THRUVIA_SPACING to "20.000,20.000" from "5.000,5.000"
+     Changing : SN_LINE_TO_THRUVIA_SPACING to "12.000,12.000" from "5.000,5.000"
+     Changing : SN_SHAPE_TO_THRUVIA_SPACING to "12.000,12.000" from "5.000,5.000"
+     Changing : SN_LINE_TO_LINE_SPACING to "10.000,10.000" from "5.000,5.000"
+     Changing : SN_LINE_TO_SHAPE_SPACING to "10.000,10.000" from "5.000,5.000"
+     Changing : SN_SHAPE_TO_SHAPE_SPACING to "10.000,10.000" from "5.000,5.000"
+     Changing : SN_BBV_TO_BBV_SPACING to "20.000,20.000" from "5.000,5.000"
+     Changing : SN_BBV_TO_THRUPIN_SPACING to "20.000,20.000" from "5.000,5.000"
+     Changing : SN_BBV_TO_SMDPIN_SPACING to "10.000,10.000" from "5.000,5.000"
+     Changing : SN_BBV_TO_THRUVIA_SPACING to "20.000,20.000" from "5.000,5.000"
+     Changing : SN_BBV_TO_LINE_SPACING to "12.000,12.000" from "5.000,5.000"
+     Changing : SN_BBV_TO_SHAPE_SPACING to "12.000,12.000" from "5.000,5.000"
+     Changing : SN_BBV_TO_TESTPIN_SPACING to "20.000,20.000" from "5.000,5.000"
+     Changing : SN_BBV_TO_TESTVIA_SPACING to "20.000,20.000" from "5.000,5.000"
+     Changing : SN_TESTPIN_TO_THRUVIA_SPACING to "20.000,20.000" from "5.000,5.000"
+     Changing : SN_TESTPIN_TO_TESTVIA_SPACING to "20.000,20.000" from "5.000,5.000"
+     Changing : SN_LINE_TO_TESTPIN_SPACING to "10.000,10.000" from "5.000,5.000"
+     Changing : SN_SHAPE_TO_TESTPIN_SPACING to "10.000,10.000" from "5.000,5.000"
+     Changing : SN_TESTVIA_TO_TESTVIA_SPACING to "20.000,20.000" from "5.000,5.000"
+     Changing : SN_TESTVIA_TO_THRUPIN_SPACING to "20.000,20.000" from "5.000,5.000"
+     Changing : SN_SMDPIN_TO_TESTVIA_SPACING to "10.000,10.000" from "5.000,5.000"
+     Changing : SN_TESTVIA_TO_THRUVIA_SPACING to "20.000,20.000" from "5.000,5.000"
+     Changing : SN_LINE_TO_TESTVIA_SPACING to "12.000,12.000" from "5.000,5.000"
+     Changing : SN_SHAPE_TO_TESTVIA_SPACING to "12.000,12.000" from "5.000,5.000"
+     Changing : SN_BONDPAD_TO_BONDPAD_SPACING to "20.000,20.000" from "5.000,5.000"
+     Changing : SN_THRUPIN_TO_BONDPAD_SPACING to "20.000,20.000" from "5.000,5.000"
+     Changing : SN_SMDPIN_TO_BONDPAD_SPACING to "10.000,10.000" from "5.000,5.000"
+     Changing : SN_BONDPAD_TO_THRUVIA_SPACING to "20.000,20.000" from "5.000,5.000"
+     Changing : SN_BONDPAD_TO_LINE_SPACING to "12.000,12.000" from "5.000,5.000"
+     Changing : SN_BONDPAD_TO_SHAPE_SPACING to "12.000,12.000" from "5.000,5.000"
+     Changing : SN_BONDPAD_TO_BBV_SPACING to "20.000,20.000" from "5.000,5.000"
+     Changing : SN_BONDPAD_TO_TESTPIN_SPACING to "20.000,20.000" from "5.000,5.000"
+     Changing : SN_BONDPAD_TO_TESTVIA_SPACING to "20.000,20.000" from "5.000,5.000"
+     Changing : SN_HOLE_TO_PIN_SPACING to "5.000,5.000" from "8.000,8.000"
+     Changing : SN_HOLE_TO_VIA_SPACING to "20.000,20.000" from "8.000,8.000"
+     Changing : SN_HOLE_TO_LINE_SPACING to "10.000,10.000" from "8.000,8.000"
+     Changing : SN_HOLE_TO_SHAPE_SPACING to "10.000,10.000" from "8.000,8.000"
+     Changing : SN_HOLE_TO_HOLE_SPACING to "5.000,5.000" from "8.000,8.000"
+     Changing : SN_MVIA_TO_MVIA_SPACING to "20.000,20.000" from "5.000,5.000"
+     Changing : SN_MVIA_TO_THRUPIN_SPACING to "20.000,20.000" from "5.000,5.000"
+     Changing : SN_MVIA_TO_SMDPIN_SPACING to "10.000,10.000" from "5.000,5.000"
+     Changing : SN_MVIA_TO_THRUVIA_SPACING to "20.000,20.000" from "5.000,5.000"
+     Changing : SN_MVIA_TO_BBV_SPACING to "20.000,20.000" from "5.000,5.000"
+     Changing : SN_MVIA_TO_LINE_SPACING to "12.000,12.000" from "5.000,5.000"
+     Changing : SN_MVIA_TO_SHAPE_SPACING to "12.000,12.000" from "5.000,5.000"
+     Changing : SN_MVIA_TO_TESTPIN_SPACING to "20.000,20.000" from "5.000,5.000"
+     Changing : SN_MVIA_TO_TESTVIA_SPACING to "20.000,20.000" from "5.000,5.000"
+     Changing : SN_BONDPAD_TO_MVIA_SPACING to "20.000,20.000" from "5.000,5.000"
+---------------------------------------------------------
+
+Summary:
+
+Constraint changes found: 1 additions, 0 deletions, 142 changes.
+
+No association changes done.
+
+
+
+

@@ -1,0 +1,235 @@
+\t (00:00:03) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:03)     Journal start - Tue May 28 15:53:49 2013
+\t (00:00:03)         Host=APL-JQ3HXV1 User=214016586 Pid=7976 CPUs=4
+\t (00:00:03) 
+\t (00:00:06) Opening existing design...
+\i (00:00:08) fillin yes 
+\w (00:00:08) WARNING(SPMHDB-214): Allegro PCB Designer (was Performance L) opening an Allegro L design.
+\w (00:00:08) WARNING(SPMHDB-213): DRC set to "out of date". This product supports a different DRC set than last product used on drawing.
+\w (00:00:08) WARNING(SPMHOD-34): Design was last saved by lower capability product (Allegro L). DRC is set out-of-date, you may wish to update DRC to reflect current rules.
+\i (00:00:09) fillin confirm
+\d (00:00:09) Database opened: D:/Misc/Misc/MBseq/worklib/mbseq/physical/mbseq38.brd
+\i (00:00:09) trapsize 25426
+\i (00:00:09) trapsize 24700
+\i (00:00:09) trapsize 25551
+\i (00:00:10) trapsize 19201
+\i (00:00:10) trapsize 25276
+\i (00:00:10) generaledit 
+\i (00:00:12) trapsize 18472
+\i (00:00:12) zoom in 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom in 7392.718 5137.266
+\i (00:00:12) trapsize 9236
+\i (00:00:12) zoom in 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom in 7390.870 5135.418
+\i (00:00:12) trapsize 4618
+\i (00:00:13) zoom out 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom out 7187.680 5024.588
+\i (00:00:13) trapsize 9236
+\i (00:00:13) zoom out 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom out 7169.208 5024.588
+\i (00:00:13) trapsize 18472
+\i (00:00:13) zoom out 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom out 7147.042 5020.895
+\i (00:00:13) trapsize 36944
+\i (00:00:14) zoom out 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom out 3881.230 4658.848
+\i (00:00:14) trapsize 73887
+\i (00:00:14) zoom in 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom in 1611.066 5382.941
+\i (00:00:14) trapsize 36944
+\i (00:00:17) zoom out 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom out 3990.232 5988.816
+\i (00:00:17) trapsize 73887
+\i (00:00:18) zoom out 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom out 7389.041 5589.826
+\i (00:00:18) trapsize 140306
+\i (00:00:18) zoom in 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom in 6096.735 9036.939
+\i (00:00:18) trapsize 70153
+\i (00:00:19) zoom out 1 
+\i (00:00:19) setwindow pcb
+\i (00:00:19) zoom out 2522.755 6006.327
+\i (00:00:19) trapsize 140306
+\i (00:00:20) zoom in 1 
+\i (00:00:20) setwindow pcb
+\i (00:00:20) zoom in 3543.163 6820.102
+\i (00:00:20) trapsize 70153
+\i (00:00:20) zoom in 1 
+\i (00:00:20) setwindow pcb
+\i (00:00:20) zoom in 3416.888 5866.020
+\i (00:00:20) trapsize 35077
+\i (00:00:29) zoom out 1 
+\i (00:00:29) setwindow pcb
+\i (00:00:29) zoom out 2771.480 4925.970
+\i (00:00:29) trapsize 70153
+\i (00:00:29) zoom in 1 
+\i (00:00:29) setwindow pcb
+\i (00:00:29) zoom in 1340.357 4154.286
+\i (00:00:29) trapsize 35077
+\i (00:00:36) color192 
+\i (00:00:36) setwindow cvf.dialog
+\i (00:00:36) cvf layer_mode
+\i (00:00:36) setwindow pcb
+\i (00:00:36) generaledit 
+\i (00:00:39) setwindow cvf.dialog
+\i (00:00:39) cvf global_invisible
+\i (00:00:40) cvf layer_tree_item 'Board Geometry'
+\i (00:00:42) cvf layers_visible board_geometry/outline TRUE
+\i (00:00:45) cvf apply
+\i (00:00:46) cvf okay
+\i (00:00:50) setwindow form.vf_vis
+\i (00:00:50) FORM vf_vis 1 via_colorvisible 1 
+\i (00:00:53) FORM vf_vis 1 via_colorvisible 0 
+\i (00:00:53) FORM vf_vis 1 pin_colorvisible 1 
+\i (00:00:54) FORM vf_vis 1 pin_colorvisible 0 
+\i (00:00:55) FORM vf_vis 1 via_colorvisible 1 
+\i (00:00:56) FORM vf_vis 1 via_colorvisible 0 
+\i (00:00:57) FORM vf_vis 2 via_colorvisible 1 
+\i (00:01:00) setwindow pcb
+\i (00:01:00) zoom out 1 
+\i (00:01:00) setwindow pcb
+\i (00:01:00) zoom out 7906.684 5346.888
+\i (00:01:00) trapsize 70153
+\i (00:01:01) zoom in 1 
+\i (00:01:01) setwindow pcb
+\i (00:01:01) zoom in 5311.021 3242.296
+\i (00:01:01) trapsize 35077
+\i (00:01:02) zoom out 1 
+\i (00:01:02) setwindow pcb
+\i (00:01:02) zoom out 4083.343 2947.653
+\i (00:01:02) trapsize 70153
+\i (00:01:03) zoom out 1 
+\i (00:01:03) setwindow pcb
+\i (00:01:03) zoom out 3886.915 3116.021
+\i (00:01:03) trapsize 140306
+\i (00:01:03) zoom in 1 
+\i (00:01:03) setwindow pcb
+\i (00:01:03) zoom in 8425.816 -3899.286
+\i (00:01:03) trapsize 70153
+\i (00:01:04) zoom in 1 
+\i (00:01:04) setwindow pcb
+\i (00:01:04) zoom in 516.377 2835.408
+\i (00:01:04) trapsize 35077
+\i (00:01:05) zoom out 1 
+\i (00:01:05) setwindow pcb
+\i (00:01:05) zoom out 1267.015 2814.362
+\i (00:01:05) trapsize 70153
+\i (00:01:05) zoom out 1 
+\i (00:01:05) setwindow pcb
+\i (00:01:05) zoom out 1323.137 2912.578
+\i (00:01:05) trapsize 140306
+\i (00:01:05) zoom in 1 
+\i (00:01:05) setwindow pcb
+\i (00:01:05) zoom in 1803.367 7633.877
+\i (00:01:05) trapsize 70153
+\i (00:01:06) zoom out 1 
+\i (00:01:06) setwindow pcb
+\i (00:01:06) zoom out 2196.225 4420.868
+\i (00:01:06) trapsize 140306
+\i (00:01:06) zoom in 1 
+\i (00:01:06) setwindow pcb
+\i (00:01:06) zoom in 1550.816 113.469
+\i (00:01:06) trapsize 70153
+\i (00:01:07) zoom in 1 
+\i (00:01:07) setwindow pcb
+\i (00:01:07) zoom in 2098.010 4659.388
+\i (00:01:07) trapsize 35077
+\i (00:01:08) zoom out 1 
+\i (00:01:08) setwindow pcb
+\i (00:01:08) zoom out 2182.194 4610.281
+\i (00:01:08) trapsize 70153
+\i (00:01:13) dxf out 
+\i (00:01:19) setwindow form.dxf_out
+\i (00:01:19) FORM dxf_out browselayer  
+\i (00:01:21) fillin "menu_cancel"
+\i (00:01:22) FORM dxf_out edit  
+\i (00:01:25) FORM dxf_out edit  
+\i (00:01:27) FORM dxf_out browselayer  
+\i (00:01:32) fillin "mbseq23.cnv"
+\i (00:01:34) FORM dxf_out browselayer  
+\i (00:01:35) fillin "menu_cancel"
+\i (00:01:36) FORM dxf_out edit  
+\i (00:01:39) setwindow form.dxfOutMapping
+\i (00:01:39) FORM dxfOutMapping dxfoutgrid change 1,1 yes 
+   (00:01:39) Loading mfg.cxt 
+   (00:01:39) Loading axlcore.cxt 
+\i (00:01:40) FORM dxfOutMapping dxfoutgrid change 2,1 yes 
+\i (00:01:41) FORM dxfOutMapping map  
+\e (00:01:41) No layer specified. Specify layer first.
+\i (00:01:43) FORM dxfOutMapping usedefaultlayernames YES 
+\i (00:01:44) FORM dxfOutMapping map  
+\i (00:01:47) FORM dxfOutMapping done  
+\i (00:01:48) fillin yes 
+\i (00:02:05) setwindow form.dxf_out
+\i (00:02:05) FORM dxf_out dxffile 'outline and holes' 
+\i (00:02:05) FORM dxf_out execute  
+\t (00:02:05) Starting DxfFile...
+\t (00:02:08) Translation complete. See logfile (using File->ViewLog).
+\i (00:14:45) FORM dxf_out units INCHES 
+\i (00:14:48) FORM dxf_out execute  
+\t (00:14:48) Starting DxfFile...
+\t (00:14:50) Translation complete. See logfile (using File->ViewLog).
+\i (00:34:58) FORM dxf_out close  
+\i (00:34:58) setwindow pcb
+\i (00:34:58) generaledit 
+\i (00:34:58) zoom in 1 
+\i (00:34:58) setwindow pcb
+\i (00:34:58) zoom in 2252.347 3712.323
+\i (00:34:58) trapsize 35077
+\i (00:34:58) zoom in 1 
+\i (00:34:58) setwindow pcb
+\i (00:34:58) zoom in 2252.347 3698.292
+\i (00:34:58) trapsize 17538
+\i (00:34:59) zoom out 1 
+\i (00:34:59) setwindow pcb
+\i (00:34:59) zoom out 2252.348 3698.293
+\i (00:34:59) trapsize 35077
+\i (00:34:59) zoom out 1 
+\i (00:34:59) setwindow pcb
+\i (00:34:59) zoom out 2252.347 3698.292
+\i (00:34:59) trapsize 70153
+\i (00:34:59) zoom in 1 
+\i (00:34:59) setwindow pcb
+\i (00:34:59) zoom in 2224.286 3389.619
+\i (00:34:59) trapsize 35077
+\i (00:35:00) zoom in 1 
+\i (00:35:00) setwindow pcb
+\i (00:35:00) zoom in 2217.271 3347.528
+\i (00:35:00) trapsize 17538
+\i (00:35:00) zoom out 1 
+\i (00:35:00) setwindow pcb
+\i (00:35:00) zoom out 2217.272 3407.158
+\i (00:35:00) trapsize 35077
+\i (00:35:03) zoom out 1 
+\i (00:35:03) setwindow pcb
+\i (00:35:03) zoom out 1066.761 3750.909
+\i (00:35:03) trapsize 70153
+\i (00:35:04) zoom in 1 
+\i (00:35:04) setwindow pcb
+\i (00:35:04) zoom in 1066.761 3750.909
+\i (00:35:04) trapsize 35077
+\i (00:35:05) zoom in 1 
+\i (00:35:05) setwindow pcb
+\i (00:35:05) zoom in 1066.761 3750.909
+\i (00:35:05) trapsize 17538
+\i (00:35:05) zoom out 1 
+\i (00:35:05) setwindow pcb
+\i (00:35:05) zoom out 1066.762 3750.909
+\i (00:35:05) trapsize 35077
+\i (00:35:08) setwindow form.vf_vis
+\i (00:35:08) FORM vf_vis 1 all_colorvisible YES 
+\i (00:35:16) setwindow pcb
+\i (00:35:16) zoom out 1 
+\i (00:35:16) setwindow pcb
+\i (00:35:16) zoom out 7254.261 4059.583
+\i (00:35:16) trapsize 70153

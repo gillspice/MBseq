@@ -1,0 +1,3 @@
+Reading Configuration: mbseq_lib mbseq cfg_package
+
+van.exe  -nolinks -sironly -cdslib cds.lib "D:\Misc\MBseq\worklib\mbseq\sch_1\verilog.v" -lib "mbseq_lib" -view sch_1 -instanceview sch_1 -instanceview entity -define VAN -globals "mbseq_lib.glbl:mbseq_cfg_package" 

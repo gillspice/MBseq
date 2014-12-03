@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sc:shoppingCart xmlns:sc="http://www.cadence.com/SPB/shopping_cart" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" checksum="0">
+	<component cell="z_led_wp59cgksykw" library="z_display" partname="Z_LED_WP59CGKSYKW" partno="10020811" quantity="1" >
+		<property name="JEDEC_TYPE"  value="LED-KINGBRIGHT_3P_2P54"/>
+		<property name="PART_NAME"  value="Z_LED_WP59CGKSYKW"/>
+		<property name="PART_NUMBER"  value="10020811"/>
+		<property name="VALUE"  value="WP59CGKSYKW"/>
+	</component>
+	<component cell="s_ec11b" library="s_switch" partname="S_EC11B" partno="10018475" quantity="1" >
+		<property name="JEDEC_TYPE"  value="SWITCH-EC11E15244"/>
+		<property name="PART_NAME"  value="S_EC11B"/>
+		<property name="PART_NUMBER"  value="10018475"/>
+		<property name="VALUE"  value="EC11E15244"/>
+	</component>
+	<component cell="j_2x5_st" library="j_connector2fjumper" partname="J_2X5_ST_AMP_534206" partno="10016967" quantity="1" >
+		<property name="JEDEC_TYPE"  value="CONN-AMP-2X5PIN-100MIL-ST"/>
+		<property name="PART_NAME"  value="J_2X5_ST_AMP_534206"/>
+		<property name="PART_NUMBER"  value="10016967"/>
+		<property name="VALUE"  value="534206-5"/>
+	</component>
+</sc:shoppingCart>

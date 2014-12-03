@@ -1,0 +1,39 @@
+\t (00:00:04) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:04)     Journal start - Tue May 28 15:52:48 2013
+\t (00:00:04)         Host=APL-JQ3HXV1 User=214016586 Pid=3552 CPUs=4
+\t (00:00:04) 
+\t (00:00:07) Opening existing design...
+\i (00:00:09) fillin yes 
+\w (00:00:09) WARNING(SPMHDB-214): Allegro PCB Designer (was Performance L) opening an Allegro L design.
+\w (00:00:09) WARNING(SPMHDB-213): DRC set to "out of date". This product supports a different DRC set than last product used on drawing.
+\w (00:00:09) WARNING(SPMHOD-34): Design was last saved by lower capability product (Allegro L). DRC is set out-of-date, you may wish to update DRC to reflect current rules.
+\i (00:00:10) fillin confirm
+\d (00:00:10) Database opened: D:/Misc/Misc/MBseq/worklib/mbseq/physical/mbseq38.brd
+\i (00:00:10) trapsize 25426
+\i (00:00:10) trapsize 24700
+\i (00:00:10) trapsize 25551
+\i (00:00:11) trapsize 19201
+\i (00:00:11) trapsize 25276
+\i (00:00:11) generaledit 
+\i (00:00:12) zoom out 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom out 7067.423 3391.912
+\i (00:00:12) trapsize 50551
+\i (00:00:12) zoom out 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom out 7067.423 3391.912
+\i (00:00:12) trapsize 101103
+\i (00:00:13) zoom in 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom in 435.069 5717.279
+\i (00:00:13) trapsize 50551
+\i (00:00:19) zoom out 1 
+\i (00:00:19) setwindow pcb
+\i (00:00:19) zoom out 647.385 5686.949
+\i (00:00:19) trapsize 101103
+\i (00:00:20) zoom in 1 
+\i (00:00:20) setwindow pcb
+\i (00:00:20) zoom in 930.474 1056.433
+\i (00:00:20) trapsize 50551
+\i (00:00:22) exit 
+\t (00:00:23)     Journal end - Tue May 28 15:53:07 2013

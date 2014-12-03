@@ -1,0 +1,34 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    PLCTXT Log                                                       )
+(                                                                     )
+(    Drawing          : mbseq01.brd                                   )
+(    Software Version : 16.3S021                                      )
+(    Date/Time        : Sat Aug 18 12:49:04 2012                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ Place by text file using: place_txt__.txt
+
+ Save as #Taaaaaa04392.tmp 
+
+ Refdes S1 is already placed ... skipping
+S2                    1639.000     4707.886       90    SWITCH-EC11E15244   
+S3                    2442.000     5433.772       90    SWITCH-EC11E15244   
+S4                    3223.000     6159.658       90    SWITCH-EC11E15244   
+S5                    4532.000     6885.544       90    SWITCH-EC11E15244   
+S6                    5368.000     7611.430       90    SWITCH-EC11E15244   
+
+ Warning: component S7 added with DRC errors
+S7                    6655.000     8337.316       90    SWITCH-EC11E15244   
+
+ Warning: component S8 added with DRC errors
+S8                    7777.000     9063.202       90    SWITCH-EC11E15244   
+
+ Successfully placed 7 components
+
+ Failed to place 1 components
+
+ 3 Warnings reported

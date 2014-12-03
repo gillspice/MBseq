@@ -1,0 +1,109 @@
+-- pcdb file, Rev:1.0 written by Allegro Design Entry HDL 16.3-S021 (v16-3-85AK) 12/6/2010 on Fri Aug 24 17:11:40 2012
+#ISCELL
+  standard ge_c_size_page *
+  *
+#CELL
+  s_switch s_ec11b *
+  page1_i1
+#CELL
+  j_connector2fjumper j_2x5_st *
+  page1_i10
+#CELL
+  j_connector2fjumper j_2x5_st *
+  page1_i11
+#CELL
+  z_display z_led_wp59cgksykw *
+  page1_i12
+#CELL
+  z_display z_led_wp59cgksykw *
+  page1_i13
+#CELL
+  z_display z_led_wp59cgksykw *
+  page1_i14
+#CELL
+  z_display z_led_wp59cgksykw *
+  page1_i15
+#CELL
+  z_display z_led_wp59cgksykw *
+  page1_i16
+#CELL
+  z_display z_led_wp59cgksykw *
+  page1_i17
+#CELL
+  z_display z_led_wp59cgksykw *
+  page1_i18
+#CELL
+  z_display z_led_wp59cgksykw *
+  page1_i19
+#CELL
+  s_switch s_ec11b *
+  page1_i2
+#CELL
+  z_display z_led_wp59cgksykw *
+  page1_i20
+#CELL
+  z_display z_led_wp59cgksykw *
+  page1_i21
+#CELL
+  z_display z_led_wp59cgksykw *
+  page1_i22
+#CELL
+  z_display z_led_wp59cgksykw *
+  page1_i23
+#CELL
+  z_display z_led_wp59cgksykw *
+  page1_i24
+#CELL
+  z_display z_led_wp59cgksykw *
+  page1_i25
+#CELL
+  z_display z_led_wp59cgksykw *
+  page1_i26
+#CELL
+  z_display z_led_wp59cgksykw *
+  page1_i27
+#CELL
+  z_display z_led_wp59cgksykw *
+  page1_i28
+#CELL
+  z_display z_led_wp59cgksykw *
+  page1_i29
+#CELL
+  s_switch s_ec11b *
+  page1_i3
+#CELL
+  z_display z_led_wp59cgksykw *
+  page1_i30
+#CELL
+  z_display z_led_wp59cgksykw *
+  page1_i31
+#CELL
+  z_display z_led_wp59cgksykw *
+  page1_i32
+#CELL
+  z_display z_led_wp59cgksykw *
+  page1_i33
+#CELL
+  z_display z_led_wp59cgksykw *
+  page1_i34
+#CELL
+  z_display z_led_wp59cgksykw *
+  page1_i35
+#CELL
+  z_display z_led_wp59cgksykw *
+  page1_i36
+#CELL
+  s_switch s_ec11b *
+  page1_i4
+#CELL
+  s_switch s_ec11b *
+  page1_i6
+#CELL
+  s_switch s_ec11b *
+  page1_i7
+#CELL
+  s_switch s_ec11b *
+  page1_i8
+#CELL
+  s_switch s_ec11b *
+  page1_i9
